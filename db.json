@@ -43,207 +43,275 @@
         "phone": "0901-234-567",
         "__v": 0,
         "id": "2"
+    },
+    {
+        "email": "thuanht2@gmail.com",
+        "password": "$2a$10$bS.x/kL9ha8k7SZBAhBZk.36g4pbpnFJe7wAfWD.zmr43WyAWIP2C",
+        "address": {
+            "geolocation": {
+                "lat": "10.9238",
+                "long": "106.5685"
+            },
+            "city": "Long An",
+            "street": "Nguyen Van Linh",
+            "number": 147,
+            "zipcode": "750000"
+        },
+        "username": "thuanht",
+        "name": {
+            "firstname": "Thuan",
+            "lastname": "HT"
+        },
+        "phone": "0901-234-567",
+        "__v": 0,
+        "id": "rNFQUX2"
     }
-  ],
+],
   "products": [
     {
-      "id": "1",
-      "title": "Comfortable Hoodie",
-      "price": 45.99,
-      "description": "A soft and stylish hoodie perfect for casual outings and lounging at home.",
-      "category": "hoodies",
-      "image": "https://picsum.photos/id/1010/300/200",
-      "rating": {
-        "rate": 4.5,
-        "count": 150
-      }
-    },
-    {
-      "id": "2",
-      "title": "Classic Sneakers",
-      "price": 60.00,
-      "description": "Timeless sneakers that provide both comfort and style for everyday wear.",
-      "category": "sneakers",
-      "image": "https://picsum.photos/id/1011/300/200",
-      "rating": {
-        "rate": 4.7,
-        "count": 220
-      }
-    },
-    {
-      "id": "3",
-      "title": "Casual Shorts",
-      "price": 25.00,
-      "description": "Lightweight shorts ideal for summer activities or a day at the beach.",
-      "category": "shorts",
-      "image": "https://picsum.photos/id/1012/300/200",
-      "rating": {
-        "rate": 4.2,
-        "count": 180
-      }
-    },
-    {
-      "id": "4",
-      "title": "Graphic Print Hoodie",
-      "price": 55.00,
-      "description": "Stylish hoodie featuring a trendy graphic print, perfect for making a statement.",
-      "category": "hoodies",
-      "image": "https://picsum.photos/id/1013/300/200",
-      "rating": {
-        "rate": 4.6,
-        "count": 200
-      }
-    },
-    {
-      "id": "5",
-      "title": "High-Top Sneakers",
-      "price": 75.00,
-      "description": "Stylish high-top sneakers designed for comfort and durability.",
-      "category": "sneakers",
-      "image": "https://picsum.photos/id/1014/300/200",
-      "rating": {
-        "rate": 4.8,
-        "count": 300
-      }
-    },
-    {
-      "id": "6",
-      "title": "Athletic Shorts",
-      "price": 30.00,
-      "description": "Durable and breathable athletic shorts suitable for workouts and sports.",
-      "category": "shorts",
-      "image": "https://picsum.photos/id/1015/300/200",
-      "rating": {
-        "rate": 4.4,
-        "count": 170
-      }
-    },
-    {
-      "id": "7",
-      "title": "Zip-Up Hoodie",
-      "price": 50.00,
-      "description": "Versatile zip-up hoodie great for layering during chilly days.",
-      "category": "hoodies",
-      "image": "https://picsum.photos/id/1016/300/200",
-      "rating": {
-        "rate": 4.3,
-        "count": 160
-      }
-    },
-    {
-      "id": "8",
-      "title": "Running Sneakers",
-      "price": 90.00,
-      "description": "Lightweight running sneakers designed for speed and comfort.",
-      "category": "sneakers",
-      "image": "https://picsum.photos/id/1017/300/200",
-      "rating": {
-        "rate": 4.9,
-        "count": 400
-      }
-    },
-    {
-      "id": "9",
-      "title": "Denim Shorts",
-      "price": 40.00,
-      "description": "Classic denim shorts that never go out of style, perfect for casual wear.",
-      "category": "shorts",
-      "image": "https://picsum.photos/id/1018/300/200",
-      "rating": {
-        "rate": 4.5,
-        "count": 190
-      }
-    },
-    {
-      "id": "10",
-      "title": "Hoodie with Pockets",
-      "price": 48.00,
-      "description": "Comfortable hoodie with spacious pockets for storing essentials.",
-      "category": "hoodies",
-      "image": "https://picsum.photos/id/1019/300/200",
-      "rating": {
-        "rate": 4.6,
-        "count": 175
-      }
-    },
-    {
-      "id": "11",
-      "title": "Basketball Sneakers",
-      "price": 85.00,
-      "description": "Performance basketball sneakers that provide excellent support and grip.",
-      "category": "sneakers",
-      "image": "https://picsum.photos/id/1020/300/200",
-      "rating": {
-        "rate": 4.8,
-        "count": 280
-      }
-    },
-    {
-      "id": "12",
-      "title": "Chino Shorts",
-      "price": 32.00,
-      "description": "Stylish chino shorts that offer a smart-casual look for summer outings.",
-      "category": "shorts",
-      "image": "https://picsum.photos/id/1021/300/200",
-      "rating": {
-        "rate": 4.4,
-        "count": 160
-      }
-    },
-    {
-      "id": "13",
-      "title": "Pullover Hoodie",
-      "price": 52.00,
-      "description": "A warm pullover hoodie made from soft fleece fabric, perfect for cool evenings.",
-      "category": "hoodies",
-      "image": "https://picsum.photos/id/1022/300/200",
-      "rating": {
-        "rate": 4.7,
-        "count": 230
-      }
-    },
-    {
-      "id": "14",
-      "title": "Fashion Sneakers",
-      "price": 70.00,
-      "description": "Trendy sneakers that blend fashion with comfort, suitable for casual wear.",
-      "category": "sneakers",
-      "image": "https://picsum.photos/id/1023/300/200",
-      "rating": {
-        "rate": 4.5,
-        "count": 210
-      }
-    },
-    {
-      "id": "15",
-      "title": "Board Shorts",
-      "price": 28.00,
-      "description": "Lightweight and quick-drying board shorts for beach and water sports.",
-      "category": "shorts",
-      "image": "https://picsum.photos/id/1024/300/200",
-      "rating": {
-        "rate": 4.3,
-        "count": 145
-      }
-    }
-  ],
-  "orders": [{
-    "carts": [
-      {
-        "id": "1",
-        "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
         "price": 109.95,
-        "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "quantity": 2
-      }
-    ],
-    "userID": "1",
-    "date": "2024-09-27 02:56:42.863957",
-    "status": true,
-    "name": "donromer",
-    "address": "No.6454, Hunters Creek Dr, San Antonio",
-    "phone": "1-765-789-6734",
-    "paymentMethod": "Cash on Delivery",
-    "id": "29"
-  }]
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "sneakers",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
+        "title": "Mens Casual Premium Slim Fit T-Shirts",
+        "price": 22.3,
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+        "category": "hoodies",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": "1b407f43-9179-40f3-85e4-e1c54f789f36",
+        "title": "Mens Cotton Jacket",
+        "price": 55.99,
+        "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions such as working, hiking, camping, and more.",
+        "category": "jackets",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": "4766c2b3-412b-47b1-9d72-b1732c6f3c4e",
+        "title": "Mens Casual Slim Fit",
+        "price": 15.99,
+        "description": "The color could be slightly different between on the screen and in practice. Please note that body builds vary by person.",
+        "category": "hoodies",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": "b9ccdb63-731f-47d4-b0c1-3036f6e34f7e",
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "price": 695,
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
+        "category": "jewelry",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": "b3189a0f-cc1b-4906-b9ea-e09e27b4f241",
+        "title": "Solid Gold Petite Micropave",
+        "price": 168,
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "jewelry",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": "6d61c517-bd77-4d4f-825a-d06b5e2a9906",
+        "title": "White Gold Plated Princess",
+        "price": 9.99,
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
+        "category": "jewelry",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": "fa4e4f91-b63c-48a2-a6e6-80000c8df08b",
+        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "price": 10.99,
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel.",
+        "category": "jewelry",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    }
+],
+  "orders": [
+    {
+        "carts": [
+            {
+                "id": "1",
+                "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "price": 109.95,
+                "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+                "quantity": 2
+            }
+        ],
+        "userID": "1",
+        "date": "2024-09-27 02:56:42.863957",
+        "status": true,
+        "name": "donromer",
+        "address": "No.6454, Hunters Creek Dr, San Antonio",
+        "phone": "1-765-789-6734",
+        "paymentMethod": "Cash on Delivery",
+        "id": "29"
+    },
+    {
+        "carts": [
+            {
+                "id": "1",
+                "name": "Comfortable Hoodie",
+                "price": 45.99,
+                "imageUrl": "https://picsum.photos/id/1010/300/200",
+                "quantity": 1
+            }
+        ],
+        "userID": 1,
+        "date": "2024-09-27 07:58:26.056430",
+        "status": true,
+        "name": "ThuanHT",
+        "address": "No.147, Nguyen Van Linh, Long An",
+        "phone": "0901-234-567",
+        "paymentMethod": "Cash on Delivery",
+        "id": "F3RToOq"
+    },
+    {
+        "carts": [
+            {
+                "id": "2",
+                "name": "Classic Sneakers",
+                "price": 60,
+                "imageUrl": "https://picsum.photos/id/1011/300/200",
+                "quantity": 1
+            }
+        ],
+        "userID": null,
+        "date": "2024-09-27 08:02:16.643474",
+        "status": true,
+        "name": "ThuanHT",
+        "address": "No.147, Nguyen Van Linh, Long An",
+        "phone": "0901-234-567",
+        "paymentMethod": "Cash on Delivery",
+        "id": "GO25X4Y"
+    },
+    {
+        "carts": [
+            {
+                "id": "2",
+                "name": "Classic Sneakers",
+                "price": 60,
+                "imageUrl": "https://picsum.photos/id/1011/300/200",
+                "quantity": 1
+            }
+        ],
+        "userID": null,
+        "date": "2024-09-27 08:04:27.952775",
+        "status": true,
+        "name": "ThuanHT",
+        "address": "No.147, Nguyen Van Linh, Long An",
+        "phone": "0901-234-567",
+        "paymentMethod": "Cash on Delivery",
+        "id": "y6qqpS1"
+    },
+    {
+        "carts": [
+            {
+                "id": "1",
+                "name": "Comfortable Hoodie",
+                "price": 45.99,
+                "imageUrl": "https://picsum.photos/id/1010/300/200",
+                "quantity": 3
+            }
+        ],
+        "userID": null,
+        "date": "2024-09-27 08:06:28.677657",
+        "status": true,
+        "name": "ThuanHT",
+        "address": "No.147, Nguyen Van Linh, Long An",
+        "phone": "0901-234-567",
+        "paymentMethod": "Cash on Delivery",
+        "id": "NP3DBwv"
+    },
+    {
+        "carts": [
+            {
+                "id": "1",
+                "name": "Comfortable Hoodie",
+                "price": 45.99,
+                "imageUrl": "https://picsum.photos/id/1010/300/200",
+                "quantity": 1
+            },
+            {
+                "id": "2",
+                "name": "Classic Sneakers",
+                "price": 60,
+                "imageUrl": "https://picsum.photos/id/1011/300/200",
+                "quantity": 1
+            },
+            {
+                "id": "3",
+                "name": "Casual Shorts",
+                "price": 25,
+                "imageUrl": "https://picsum.photos/id/1012/300/200",
+                "quantity": 1
+            }
+        ],
+        "userID": "2",
+        "date": "2024-09-27 08:08:02.969746",
+        "status": true,
+        "name": "ThuanHT",
+        "address": "No.147, Nguyen Van Linh, Long An",
+        "phone": "0901-234-567",
+        "paymentMethod": "Cash on Delivery",
+        "id": "BFIHLdI"
+    },
+    {
+        "carts": [
+            {
+                "id": "1",
+                "name": "Comfortable Hoodie",
+                "price": 45.99,
+                "imageUrl": "https://picsum.photos/id/1010/300/200",
+                "quantity": 1
+            }
+        ],
+        "userID": "rNFQUX2",
+        "date": "2024-09-27 08:09:21.728689",
+        "status": true,
+        "name": "Thuan Hoang",
+        "address": "No.147, Nguyen Van Linh, Long An",
+        "phone": "0901-234-567",
+        "paymentMethod": "PayPal",
+        "id": "kYxZTL2"
+    }
+]
 }
