@@ -1,224 +1,48 @@
 {
   "users": [
     {
-      "address": {
-        "geolocation": {
-          "lat": "10.7769",
-          "long": "106.6959"
+        "email": "hieu1.j@gmail.com",
+        "password": "$2a$10$iukDD9H6jscEcFGrEEHsyu1xmjObR3v1IRJlJUxzX4viIFzKXId9y",
+        "address": {
+            "geolocation": {
+                "lat": "10.9238",
+                "long": "106.5685"
+            },
+            "city": "Long An",
+            "street": "Nguyen Van Linh",
+            "number": 147,
+            "zipcode": "750000"
         },
-        "city": "Ho Chi Minh City",
-        "street": "Le Loi",
-        "number": 123,
-        "zipcode": "700000"
-      },
-      "id": 1,
-      "email": "nguyen.a@gmail.com",
-      "username": "nguyena",
-      "password": "123456$",
-      "name": {
-        "firstname": "Nguyen",
-        "lastname": "An"
-      },
-      "phone": "0912-345-678",
-      "__v": 0
+        "username": "hieuj",
+        "name": {
+            "firstname": "Hieu",
+            "lastname": "J"
+        },
+        "phone": "0901-234-567",
+        "__v": 0,
+        "id": 12
     },
     {
-      "address": {
-        "geolocation": {
-          "lat": "21.0285",
-          "long": "105.804"
+        "email": "thuanht1@gmail.com",
+        "password": "$2a$10$z21fATOmvhUar3bkitPLYeeq9AO9TOJ.Ksxe/Ltaz2JJdcz9y9MNW",
+        "address": {
+            "geolocation": {
+                "lat": "10.9238",
+                "long": "106.5685"
+            },
+            "city": "Long An",
+            "street": "Nguyen Van Linh",
+            "number": 147,
+            "zipcode": "750000"
         },
-        "city": "Hanoi",
-        "street": "Hang Bai",
-        "number": 456,
-        "zipcode": "100000"
-      },
-      "id": 2,
-      "email": "tran.b@gmail.com",
-      "username": "tranb",
-      "password": "abcdef$",
-      "name": {
-        "firstname": "Tran",
-        "lastname": "B"
-      },
-      "phone": "0987-654-321",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "16.0545",
-          "long": "108.2022"
+        "username": "thuanht",
+        "name": {
+            "firstname": "Thuan",
+            "lastname": "HT"
         },
-        "city": "Da Nang",
-        "street": "Pham Van Dong",
-        "number": 789,
-        "zipcode": "550000"
-      },
-      "id": 3,
-      "email": "le.c@gmail.com",
-      "username": "lec",
-      "password": "qwerty$",
-      "name": {
-        "firstname": "Le",
-        "lastname": "C"
-      },
-      "phone": "0934-567-890",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "10.4906",
-          "long": "106.7065"
-        },
-        "city": "Can Tho",
-        "street": "Tran Hung Dao",
-        "number": 321,
-        "zipcode": "900000"
-      },
-      "id": 4,
-      "email": "pham.d@gmail.com",
-      "username": "phamc",
-      "password": "password$",
-      "name": {
-        "firstname": "Pham",
-        "lastname": "D"
-      },
-      "phone": "0911-223-344",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "10.5142",
-          "long": "105.1903"
-        },
-        "city": "Vung Tau",
-        "street": "Nguyen Thai Hoc",
-        "number": 159,
-        "zipcode": "790000"
-      },
-      "id": 5,
-      "email": "hoang.e@gmail.com",
-      "username": "hoange",
-      "password": "xyz123$",
-      "name": {
-        "firstname": "Hoang",
-        "lastname": "E"
-      },
-      "phone": "0933-444-555",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "10.2518",
-          "long": "107.1635"
-        },
-        "city": "Bac Lieu",
-        "street": "Hoang Van Thu",
-        "number": 852,
-        "zipcode": "970000"
-      },
-      "id": 6,
-      "email": "vu.f@gmail.com",
-      "username": "vuf",
-      "password": "letmein$",
-      "name": {
-        "firstname": "Vu",
-        "lastname": "F"
-      },
-      "phone": "0922-333-444",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "12.2655",
-          "long": "109.1942"
-        },
-        "city": "Nha Trang",
-        "street": "Tran Phu",
-        "number": 963,
-        "zipcode": "650000"
-      },
-      "id": 7,
-      "email": "hoang.g@gmail.com",
-      "username": "hoangg",
-      "password": "mypassword$",
-      "name": {
-        "firstname": "Hoang",
-        "lastname": "G"
-      },
-      "phone": "0955-666-777",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "15.9717",
-          "long": "108.3952"
-        },
-        "city": "Hue",
-        "street": "Nguyen Hue",
-        "number": 741,
-        "zipcode": "530000"
-      },
-      "id": 8,
-      "email": "kim.h@gmail.com",
-      "username": "kimh",
-      "password": "hello123$",
-      "name": {
-        "firstname": "Kim",
-        "lastname": "H"
-      },
-      "phone": "0915-876-543",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "10.4061",
-          "long": "106.6008"
-        },
-        "city": "Binh Duong",
-        "street": "Binh Duong Boulevard",
-        "number": 258,
-        "zipcode": "750000"
-      },
-      "id": 9,
-      "email": "trong.i@gmail.com",
-      "username": "trongi",
-      "password": "mypassword$",
-      "name": {
-        "firstname": "Trong",
-        "lastname": "I"
-      },
-      "phone": "0934-987-654",
-      "__v": 0
-    },
-    {
-      "address": {
-        "geolocation": {
-          "lat": "10.9238",
-          "long": "106.5685"
-        },
-        "city": "Long An",
-        "street": "Nguyen Van Linh",
-        "number": 147,
-        "zipcode": "750000"
-      },
-      "id": 10,
-      "email": "hieu.j@gmail.com",
-      "username": "hieuj",
-      "password": "securepassword$",
-      "name": {
-        "firstname": "Hieu",
-        "lastname": "J"
-      },
-      "phone": "0901-234-567",
-      "__v": 0
+        "phone": "0901-234-567",
+        "__v": 0,
+        "id": 13
     }
   ],
   "products": [
