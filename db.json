@@ -1,989 +1,1099 @@
 {
   "users": [
     {
-        "email": "hieu1.j@gmail.com",
-        "password": "$2a$10$iukDD9H6jscEcFGrEEHsyu1xmjObR3v1IRJlJUxzX4viIFzKXId9y",
-        "address": {
-            "geolocation": {
-                "lat": "10.9238",
-                "long": "106.5685"
-            },
-            "city": "Long An",
-            "street": "Nguyen Van Linh",
-            "number": 147,
-            "zipcode": "750000"
+      "email": "hieu1.j@gmail.com",
+      "password": "$2a$10$iukDD9H6jscEcFGrEEHsyu1xmjObR3v1IRJlJUxzX4viIFzKXId9y",
+      "address": {
+        "geolocation": {
+          "lat": "10.9238",
+          "long": "106.5685"
         },
-        "username": "hieuj",
-        "name": {
-            "firstname": "Hieu",
-            "lastname": "J"
-        },
-        "phone": "0901-234-567",
-        "__v": 0,
-        "id": "1"
+        "city": "Long An",
+        "street": "Nguyen Van Linh",
+        "number": 147,
+        "zipcode": "750000"
+      },
+      "username": "hieuj",
+      "name": {
+        "firstname": "Hieu",
+        "lastname": "J"
+      },
+      "phone": "0901-234-567",
+      "__v": 0,
+      "id": "1"
     },
     {
-        "email": "thuanht1@gmail.com",
-        "password": "$2a$10$z21fATOmvhUar3bkitPLYeeq9AO9TOJ.Ksxe/Ltaz2JJdcz9y9MNW",
-        "address": {
-            "geolocation": {
-                "lat": "10.9238",
-                "long": "106.5685"
-            },
-            "city": "Long An",
-            "street": "Nguyen Van Linh",
-            "number": 147,
-            "zipcode": "750000"
+      "email": "thuanht1@gmail.com",
+      "password": "$2a$10$z21fATOmvhUar3bkitPLYeeq9AO9TOJ.Ksxe/Ltaz2JJdcz9y9MNW",
+      "address": {
+        "geolocation": {
+          "lat": "10.9238",
+          "long": "106.5685"
         },
-        "username": "thuanht",
-        "name": {
-            "firstname": "Thuan",
-            "lastname": "HT"
-        },
-        "phone": "0901-234-567",
-        "__v": 0,
-        "id": "2"
+        "city": "Long An",
+        "street": "Nguyen Van Linh",
+        "number": 147,
+        "zipcode": "750000"
+      },
+      "username": "thuanht",
+      "name": {
+        "firstname": "Thuan",
+        "lastname": "HT"
+      },
+      "phone": "0901-234-567",
+      "__v": 0,
+      "id": "2"
     },
     {
-        "email": "thuanht2@gmail.com",
-        "password": "$2a$10$bS.x/kL9ha8k7SZBAhBZk.36g4pbpnFJe7wAfWD.zmr43WyAWIP2C",
-        "address": {
-            "geolocation": {
-                "lat": "10.9238",
-                "long": "106.5685"
-            },
-            "city": "Long An",
-            "street": "Nguyen Van Linh",
-            "number": 147,
-            "zipcode": "750000"
+      "email": "thuanht2@gmail.com",
+      "password": "$2a$10$bS.x/kL9ha8k7SZBAhBZk.36g4pbpnFJe7wAfWD.zmr43WyAWIP2C",
+      "address": {
+        "geolocation": {
+          "lat": "10.9238",
+          "long": "106.5685"
         },
-        "username": "thuanht",
-        "name": {
-            "firstname": "Thuan",
-            "lastname": "HT"
-        },
-        "phone": "0901-234-567",
-        "__v": 0,
-        "id": "rNFQUX2"
+        "city": "Long An",
+        "street": "Nguyen Van Linh",
+        "number": 147,
+        "zipcode": "750000"
+      },
+      "username": "thuanht",
+      "name": {
+        "firstname": "Thuan",
+        "lastname": "HT"
+      },
+      "phone": "0901-234-567",
+      "__v": 0,
+      "id": "rNFQUX2"
     }
-],
+  ],
   "products": [
-  {
-    "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Một chiếc ba lô hoàn hảo cho việc sử dụng hàng ngày và những buổi đi dạo trong rừng. Với ngăn đệm dành cho laptop lên đến 15 inch, bạn có thể an tâm cất giữ thiết bị của mình trong sự bảo vệ an toàn. Thiết kế thông minh với không gian đủ cho những vật dụng thiết yếu, khiến nó trở thành lựa chọn lý tưởng cho cả công việc và giải trí. Chất liệu bền bỉ và khả năng chống nước giúp bạn yên tâm trong mọi điều kiện thời tiết. Ba lô này không chỉ tiện dụng mà còn thời trang, thích hợp cho những ai yêu thích khám phá và di chuyển thường xuyên.",
-    "category": "sneakers",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-    "rating": {
-      "rate": 3.9,
-      "count": 120
+    {
+      "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Một chiếc ba lô hoàn hảo cho việc sử dụng hàng ngày và những buổi đi dạo trong rừng. Với ngăn đệm dành cho laptop lên đến 15 inch, bạn có thể an tâm cất giữ thiết bị của mình trong sự bảo vệ an toàn. Thiết kế thông minh với không gian đủ cho những vật dụng thiết yếu, khiến nó trở thành lựa chọn lý tưởng cho cả công việc và giải trí. Chất liệu bền bỉ và khả năng chống nước giúp bạn yên tâm trong mọi điều kiện thời tiết. Ba lô này không chỉ tiện dụng mà còn thời trang, thích hợp cho những ai yêu thích khám phá và di chuyển thường xuyên.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "description": "Áo thun với kiểu dáng slim-fit, tay raglan tương phản dài, và khóa ba nút. Chất liệu nhẹ và mềm mại, đảm bảo sự thoải mái và thông thoáng cho người mặc. Đây là lựa chọn tuyệt vời cho cả những buổi đi chơi hay làm việc. Với thiết kế hiện đại và màu sắc đa dạng, bạn có thể dễ dàng phối hợp với nhiều trang phục khác nhau. Sản phẩm này không chỉ mang lại vẻ ngoài thời trang mà còn giúp bạn cảm thấy tự tin trong mọi tình huống.",
+      "category": "hoodies",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "1b407f43-9179-40f3-85e4-e1c54f789f36",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "Chiếc áo khoác ngoài tuyệt vời cho mùa Xuân, Thu, và Đông, phù hợp với nhiều dịp như làm việc, đi bộ đường dài, cắm trại, và nhiều hoạt động ngoài trời khác. Với chất liệu cotton bền bỉ, nó không chỉ mang lại sự thoải mái mà còn giúp bạn nổi bật trong đám đông. Thiết kế kiểu dáng thời trang, có nhiều túi tiện lợi để đựng những vật dụng nhỏ, giúp bạn dễ dàng truy cập mọi thứ khi cần. Sản phẩm này sẽ là một phần không thể thiếu trong tủ đồ của bạn.",
+      "category": "jackets",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4766c2b3-412b-47b1-9d72-b1732c6f3c4e",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "Chiếc áo này có thể có màu sắc hơi khác nhau giữa màn hình và thực tế. Xin lưu ý rằng vóc dáng của cơ thể mỗi người cũng có sự khác biệt. Thích hợp cho việc mặc hàng ngày và các hoạt động thể thao. Chất liệu mềm mại giúp bạn cảm thấy thoải mái khi mặc trong thời gian dài, đồng thời dễ dàng bảo quản và giặt sạch.",
+      "category": "hoodies",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "b9ccdb63-731f-47d4-b0c1-3036f6e34f7e",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "Từ bộ sưu tập Legends của chúng tôi, Naga được lấy cảm hứng từ con rồng nước huyền thoại bảo vệ viên ngọc trai của đại dương. Với thiết kế tinh xảo và chất liệu cao cấp, đây là món trang sức hoàn hảo để thể hiện cá tính và phong cách của bạn. Món trang sức này không chỉ là một phụ kiện, mà còn là biểu tượng của sức mạnh và sự bảo vệ, khiến nó trở thành món quà lý tưởng cho những người phụ nữ quan trọng trong cuộc đời bạn.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "b3189a0f-cc1b-4906-b9ea-e09e27b4f241",
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Đảm bảo sự hài lòng. Bạn có thể trả lại hoặc đổi bất kỳ đơn hàng nào trong vòng 30 ngày. Món trang sức này mang đến vẻ đẹp tinh tế và sang trọng, rất phù hợp cho những dịp đặc biệt. Với thiết kế nhỏ gọn và tinh xảo, nó có thể trở thành một phần không thể thiếu trong bộ sưu tập trang sức của bạn.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "6d61c517-bd77-4d4f-825a-d06b5e2a9906",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Chiếc nhẫn đính hôn kim cương solitaire cổ điển được tạo ra cho cô ấy. Được thiết kế tinh tế với chất liệu vàng trắng, đây là biểu tượng của tình yêu và sự cam kết. Món trang sức này không chỉ đẹp mắt mà còn mang ý nghĩa sâu sắc, là món quà hoàn hảo cho những dịp kỷ niệm hay cầu hôn.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "fa4e4f91-b63c-48a2-a6e6-80000c8df08b",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Khuyên tai với thiết kế hình cú, được mạ vàng hồng và làm từ thép không gỉ 316L. Đây là một món trang sức độc đáo, phù hợp cho những ai yêu thích sự khác biệt. Thiết kế hiện đại và tinh tế, khiến nó trở thành món quà tuyệt vời cho những dịp sinh nhật hoặc lễ kỷ niệm.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "a1b7fdf3-44e3-4e0d-8e3e-012e8a181e92",
+      "title": "Adidas Ultraboost 21 Shoes",
+      "price": 180,
+      "description": "Giày thể thao Adidas Ultraboost 21 được thiết kế để cung cấp sự thoải mái tối đa và hiệu suất tuyệt vời. Được trang bị công nghệ Boost độc quyền của Adidas, đôi giày này giúp bạn cảm nhận được sự đàn hồi và linh hoạt trong mỗi bước đi. Với thiết kế thể thao hiện đại, nó rất phù hợp cho việc chạy bộ, tập gym hoặc đi dạo phố.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/81QWz-Py0aL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 300
+      }
+    },
+    {
+      "id": "f2c3b982-10fc-4610-8b26-f689dc0625a8",
+      "title": "Nike Air Zoom Pegasus 37",
+      "price": 120,
+      "description": "Nike Air Zoom Pegasus 37 được thiết kế cho những người yêu thích chạy bộ, mang lại sự nhẹ nhàng và êm ái trong từng bước chạy. Đế giày với công nghệ Zoom Air giúp tăng cường độ đàn hồi và khả năng phản hồi. Kiểu dáng thể thao hiện đại và phong cách, rất phù hợp cho cả những người đam mê thể thao và thời trang.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/71QVxtFfthL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 500
+      }
+    },
+    {
+      "id": "1b55d4f3-4410-4a14-bb7f-f48f92563243",
+      "title": "Samsung Galaxy S21 Ultra 5G",
+      "price": 1199.99,
+      "description": "Samsung Galaxy S21 Ultra là chiếc smartphone cao cấp nhất trong dòng Galaxy S21, mang đến trải nghiệm vượt trội với màn hình Dynamic AMOLED 2X 6.8 inch, camera chính 108 MP, và pin 5000 mAh. Thiết kế sang trọng, hiệu năng mạnh mẽ với vi xử lý Exynos 2100 hoặc Snapdragon 888, giúp bạn chụp ảnh, quay video và chơi game mượt mà.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71nGgZK9bbL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 200
+      }
+    },
+    {
+      "id": "77dbe2a1-8b51-4d85-8f60-dc073ecb78c0",
+      "title": "Apple iPhone 13 Pro",
+      "price": 999.99,
+      "description": "Apple iPhone 13 Pro với màn hình Super Retina XDR 6.1 inch, vi xử lý A15 Bionic nhanh nhất thế giới, và hệ thống camera Pro với tính năng Night mode. Màu sắc đẹp mắt, thời lượng pin kéo dài, đây là lựa chọn hoàn hảo cho những ai yêu thích công nghệ và chụp ảnh.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71pDtp7qOmL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": "4bcafecc-d72a-4c3e-b5a7-4e0e13a51c4f",
+      "title": "Ray-Ban RB2132 New Wayfarer Sunglasses",
+      "price": 154.99,
+      "description": "Kính mát Ray-Ban RB2132 New Wayfarer mang đến phong cách thời trang cổ điển với thiết kế hiện đại. Chất liệu bền bỉ và kính chống UV, là lựa chọn hoàn hảo cho mùa hè hay các hoạt động ngoài trời.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/61u7qmfCLqL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 75
+      }
+    },
+    {
+      "id": "86e4b8d4-cc0e-4df9-aaf6-4fd1c7d2bc12",
+      "title": "L'Oreal Paris Makeup Infallible Pro-Matte Liquid Lipstick",
+      "price": 9.99,
+      "description": "Son môi L'Oreal Paris Infallible Pro-Matte mang đến màu sắc bền lâu và hoàn thiện matte tuyệt đẹp. Với công thức không nhòe và không khô môi, đây là lựa chọn lý tưởng cho những ai yêu thích trang điểm.",
+      "category": "cosmetics",
+      "image": "https://fakestoreapi.com/img/51EIH71MIvL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 100
+      }
+    },
+    {
+      "id": "2e362f6d-b5a2-4a5a-b9ff-cac15ef1c1d1",
+      "title": "Industrial Multi-Tool",
+      "price": 39.99,
+      "description": "Công cụ đa năng công nghiệp, bao gồm nhiều tính năng như cắt, mở nắp chai, và nhiều công dụng khác. Thiết kế bền bỉ, dễ dàng mang theo, phù hợp cho các dự án DIY và công việc hàng ngày.",
+      "category": "industrial",
+      "image": "https://fakestoreapi.com/img/71Mwfg0R4yL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 60
+      }
+    },
+    {
+      "id": "69345269-36c8-4173-8d6c-f2e8c24a1e6e",
+      "title": "Modern Wooden Dining Table",
+      "price": 499.99,
+      "description": "Bàn ăn gỗ hiện đại, thiết kế tối giản và sang trọng, phù hợp cho mọi không gian sống. Chất liệu gỗ tự nhiên bền bỉ, dễ dàng lau chùi, tạo điểm nhấn cho phòng ăn của bạn.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/71cK0eLRNzL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 25
+      }
+    },
+    {
+      "id": "4db45e68-07e2-4d94-92f3-f7c57892a004",
+      "title": "Leather Office Chair",
+      "price": 199.99,
+      "description": "Ghế văn phòng da cao cấp, thiết kế ergonomics giúp bạn thoải mái trong thời gian dài làm việc. Chất liệu da dễ dàng vệ sinh, là lựa chọn lý tưởng cho văn phòng làm việc tại nhà.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/71LzAIiYI4L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 40
+      }
+    },
+    {
+      "id": "8a5c0d8e-19cf-4c9e-851e-e94b618e6ff2",
+      "title": "Wireless Bluetooth Headphones",
+      "price": 59.99,
+      "description": "Tai nghe Bluetooth không dây với chất lượng âm thanh tuyệt vời và thời gian sử dụng lâu dài. Thiết kế nhẹ và thoải mái, lý tưởng cho việc nghe nhạc hoặc đàm thoại.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61ZzOqzzpPL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 200
+      }
+    },
+    {
+      "id": "c368fcb2-5d35-4586-b22f-5480615f0ebf",
+      "title": "Fujifilm Instax Mini 11 Instant Camera",
+      "price": 69.99,
+      "description": "Máy ảnh Instax Mini 11 cho phép bạn chụp và in ảnh ngay lập tức. Thiết kế nhỏ gọn, dễ sử dụng, phù hợp cho các buổi tiệc, du lịch hoặc làm quà tặng.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81xy1KPJ9wL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 150
+      }
+    },
+    {
+      "id": "23f3b5ef-1f2f-4afc-9036-1232f174afc8",
+      "title": "Xiaomi Mi Band 6",
+      "price": 49.99,
+      "description": "Mi Band 6 là một trong những thiết bị đeo tay thông minh tốt nhất hiện nay với màn hình AMOLED 1.56 inch, theo dõi sức khỏe 24/7 và hỗ trợ hơn 30 chế độ thể thao khác nhau. Thời lượng pin lên tới 14 ngày, rất lý tưởng cho những người yêu thích thể dục.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71VxXkK7ZhL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 250
+      }
+    },
+    {
+      "id": "dc4fa868-b84f-462b-83af-c0a52a8b57c3",
+      "title": "Nike Air Max 270",
+      "price": 129.99,
+      "description": "Giày thể thao Nike Air Max 270 với thiết kế năng động, đế giày êm ái, phù hợp cho việc tập luyện và đi chơi. Chất liệu thoáng khí, giúp chân luôn cảm thấy thoải mái.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/71kV6EtCX7L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": "98b2c9e1-1c84-4865-ae88-4ffbf34d6be1",
+      "title": "Maybelline New York SuperStay Matte Ink Liquid Lipstick",
+      "price": 11.99,
+      "description": "Son môi Maybelline SuperStay Matte Ink với công thức bền màu, giúp bạn tự tin suốt cả ngày. Đặc biệt với nhiều màu sắc đa dạng, dễ dàng lựa chọn theo phong cách của bạn.",
+      "category": "cosmetics",
+      "image": "https://fakestoreapi.com/img/51rwx8gk2pL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 200
+      }
+    },
+    {
+      "id": "7a2b7d8f-7c9e-4b89-babc-120df3cfb579",
+      "title": "Portable Air Compressor",
+      "price": 39.99,
+      "description": "Máy nén khí di động giúp bạn bơm hơi cho xe ô tô, xe đạp, và các thiết bị khác một cách nhanh chóng và tiện lợi. Thiết kế nhỏ gọn, dễ dàng mang theo bên mình.",
+      "category": "industrial",
+      "image": "https://fakestoreapi.com/img/61nDti2vcUL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 85
+      }
+    },
+    {
+      "id": "f038c4c1-3c5c-4af9-b9e8-80d7f226f0c5",
+      "title": "Wooden Coffee Table",
+      "price": 299.99,
+      "description": "Bàn cà phê gỗ tự nhiên với thiết kế hiện đại, sang trọng. Chất liệu gỗ chắc chắn, dễ dàng vệ sinh, phù hợp cho không gian sống hiện đại.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/61ETWx6hCqL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 45
+      }
+    },
+    {
+      "id": "f71a2ed2-bc35-4c97-b163-90be14a00b02",
+      "title": "Bluetooth Smart Scale",
+      "price": 29.99,
+      "description": "Cân thông minh Bluetooth giúp theo dõi trọng lượng và chỉ số cơ thể của bạn. Kết nối với ứng dụng trên điện thoại để theo dõi tiến trình sức khỏe một cách dễ dàng.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81bE2u8Q1yL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 150
+      }
+    },
+    {
+      "id": "b3d7e046-2b8d-4e08-805f-160b0734b34a",
+      "title": "Casual Summer Dress",
+      "price": 49.99,
+      "description": "Váy mùa hè thoải mái với thiết kế đơn giản nhưng thanh lịch. Chất liệu mềm mại, thoáng khí, phù hợp cho những buổi dạo chơi hoặc đi biển.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/61vLXpVJHzL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 90
+      }
+    },
+    {
+      "id": "4e4773c7-9136-4d1d-8067-66e9cbb9e4bc",
+      "title": "Clinique Moisture Surge 72-Hour Auto-Replenishing Hydrator",
+      "price": 39.99,
+      "description": "Kem dưỡng ẩm Clinique Moisture Surge giúp cung cấp độ ẩm suốt 72 giờ. Với công thức nhẹ nhàng, sản phẩm giúp làm mềm và cấp nước cho làn da, mang lại cảm giác mịn màng và căng bóng.",
+      "category": "cosmetics",
+      "image": "https://fakestoreapi.com/img/61x7J0-uVHL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    {
+      "id": "a5071f66-5c67-4380-8f1e-75e506d16b5c",
+      "title": "Heavy Duty Hand Truck",
+      "price": 89.99,
+      "description": "Xe đẩy hàng đa năng, thiết kế chắc chắn, giúp bạn vận chuyển hàng hóa một cách dễ dàng. Tải trọng lớn, phù hợp cho các công việc nặng.",
+      "category": "industrial",
+      "image": "https://fakestoreapi.com/img/71fF5nN8eTL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 75
+      }
+    },
+    {
+      "id": "d60e6f0b-86ec-413f-8496-f4b0c2b9e624",
+      "title": "Apple iPhone 14",
+      "price": 999.99,
+      "description": "Apple iPhone 14 với camera kép 12MP, màn hình Super Retina XDR 6.1 inch và chip A15 Bionic. Cung cấp hiệu suất mạnh mẽ và khả năng chụp ảnh tuyệt vời.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71w3J0HQ7BL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": "a4e3b0ae-d7bb-4d54-a8f6-6f502aebc597",
+      "title": "Adidas Ultraboost 21",
+      "price": 169.99,
+      "description": "Giày chạy bộ Adidas Ultraboost 21 với công nghệ đệm Boost mang lại sự êm ái và thoải mái. Thiết kế năng động, phù hợp cho cả luyện tập và thời trang.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/61pHqgH2a8L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 200
+      }
+    },
+    {
+      "id": "ee50b920-6d6b-43c6-a3c8-bdd24cd146e1",
+      "title": "L'Oreal Paris Revitalift Anti-Aging Serum",
+      "price": 34.99,
+      "description": "Serum chống lão hóa Revitalift từ L'Oreal Paris giúp làm giảm nếp nhăn và cải thiện độ đàn hồi của da. Chứa hyaluronic acid và vitamin C, mang lại làn da trẻ trung.",
+      "category": "cosmetics",
+      "image": "https://fakestoreapi.com/img/61Jxb4QGZ5L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 160
+      }
+    },
+    {
+      "id": "6cb58243-d59b-4534-8f7f-0836601ac749",
+      "title": "Industrial Electric Heater",
+      "price": 199.99,
+      "description": "Máy sưởi điện công nghiệp, công suất lớn, giúp làm ấm không gian nhanh chóng. Thiết kế bền bỉ, phù hợp cho các công trình và nhà kho.",
+      "category": "industrial",
+      "image": "https://fakestoreapi.com/img/61Hjh3SU6BL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 50
+      }
+    },
+    {
+      "id": "f837f8c2-86cf-474f-9cb4-3ffb3f9c31b4",
+      "title": "Luxury Velvet Sofa",
+      "price": 799.99,
+      "description": "Sofa nhung cao cấp với thiết kế sang trọng, mang lại cảm giác thoải mái và phong cách cho không gian sống của bạn.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/71z3L2cLrUL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 30
+      }
+    },
+    {
+      "id": "c1c23429-b09a-4c89-8e66-b7a72fda45a0",
+      "title": "Bluetooth Wireless Earbuds",
+      "price": 49.99,
+      "description": "Tai nghe không dây Bluetooth với chất lượng âm thanh tuyệt vời và thời lượng pin lên tới 20 giờ. Thiết kế nhỏ gọn, dễ dàng mang theo.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71uPT8AnW1L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 110
+      }
+    },
+    {
+      "id": "f7b4b74f-77e4-42e2-8a1a-70f7f29ffcd4",
+      "title": "Levi's 511 Slim Fit Jeans",
+      "price": 59.99,
+      "description": "Quần jeans Levi's 511 Slim Fit với chất liệu cotton cao cấp, mang lại sự thoải mái và phong cách trẻ trung cho bạn.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/61j6BZ9sWqL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 140
+      }
+    },
+    {
+      "id": "f44e3e5d-5b56-4852-b38a-e79e6b6bc0b4",
+      "title": "Kiehl's Ultra Facial Cream",
+      "price": 32.99,
+      "description": "Kem dưỡng ẩm Kiehl's Ultra Facial Cream giúp giữ ẩm cho da suốt 24 giờ. Với công thức nhẹ nhàng, phù hợp cho mọi loại da.",
+      "category": "cosmetics",
+      "image": "https://fakestoreapi.com/img/61GHs4i1oDL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 70
+      }
+    },
+    {
+      "id": "47d8da98-1c62-43bb-9758-02b9b5e66d4c",
+      "title": "Heavy Duty Work Gloves",
+      "price": 19.99,
+      "description": "Găng tay làm việc chuyên dụng, giúp bảo vệ tay trong các công việc nặng. Chất liệu chắc chắn, bền bỉ.",
+      "category": "industrial",
+      "image": "https://fakestoreapi.com/img/71z7sLkzXfL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 90
+      }
+    },
+    {
+      "id": "c102d2dc-e5d0-4338-bc39-5c814b299ff7",
+      "title": "Wooden Bookshelf",
+      "price": 149.99,
+      "description": "Kệ sách gỗ tự nhiên với thiết kế đơn giản nhưng tinh tế, phù hợp để lưu trữ sách và trang trí không gian sống.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/61yOD0m7D5L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 80
+      }
+    },
+    {
+      "id": "f9c4f13b-e2b7-4d47-b5f6-e514c4e8a91e",
+      "title": "Men's Hoodie",
+      "price": 49.99,
+      "description": "Hoodie nam với chất liệu cotton thoáng khí, thiết kế thời trang, thích hợp cho mọi hoạt động hàng ngày.",
+      "category": "hoodies",
+      "image": "https://fakestoreapi.com/img/71XzTYD1E7L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": "8c0b9b42-9184-4977-bf26-9f7f13e7aa5a",
+      "title": "Gold Plated Hoop Earrings",
+      "price": 29.99,
+      "description": "Khuyên tai hình tròn mạ vàng, thiết kế tinh tế và sang trọng, hoàn hảo cho mọi dịp.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71n3PqUlI3L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      }
+    },
+    {
+      "id": "e623c15d-f644-4c93-b4a4-4cb567ce7c4e",
+      "title": "Nike Air Max 270",
+      "price": 149.99,
+      "description": "Giày thể thao Nike Air Max 270 với thiết kế đế cao su và công nghệ đệm khí, mang lại cảm giác thoải mái tối đa.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/71OlgUk2b6L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 250
+      }
+    },
+    {
+      "id": "67f5e484-4cd9-472b-b2be-83bc5f1e27e2",
+      "title": "Men's Casual Shoes",
+      "price": 59.99,
+      "description": "Giày đi chơi nam với thiết kế thời trang và chất liệu da cao cấp, thích hợp cho mọi dịp.",
+      "category": "shoes",
+      "image": "https://fakestoreapi.com/img/61wa3-fkpeL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": "bb2767e8-9937-4bc3-8c1c-9dc90c67ab8f",
+      "title": "Women's Running Shoes",
+      "price": 89.99,
+      "description": "Giày chạy nữ với thiết kế nhẹ và thoáng khí, giúp tăng cường hiệu suất trong khi tập luyện.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/61m2e1npP5L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 160
+      }
+    },
+    {
+      "id": "f28d2445-8b71-41e0-8510-3f1868c0aebd",
+      "title": "Leather Backpack",
+      "price": 119.99,
+      "description": "Ba lô da cao cấp với thiết kế thời trang và ngăn chứa rộng rãi, phù hợp cho việc đi học và du lịch.",
+      "category": "bags",
+      "image": "https://fakestoreapi.com/img/81yzH8xT2qL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 90
+      }
+    },
+    {
+      "id": "ef90b02a-bcc0-4a37-b9b8-61ae6f1e48de",
+      "title": "Diamond Stud Earrings",
+      "price": 79.99,
+      "description": "Khuyên tai đính kim cương, thiết kế thanh lịch và sang trọng, thích hợp làm quà tặng cho người thân.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71Z0ytVwnzL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "f70b7de6-df85-4456-8b2b-fb77268848d2",
+      "title": "Hoodie Sweatshirt",
+      "price": 39.99,
+      "description": "Áo hoodie với chất liệu mềm mại, kiểu dáng thể thao, thích hợp cho mùa đông.",
+      "category": "hoodies",
+      "image": "https://fakestoreapi.com/img/61yfbOcbp6L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 100
+      }
+    },
+    {
+      "id": "2a8a378e-3f32-46eb-9f8d-7a008653cdd1",
+      "title": "Stylish Running Shoes",
+      "price": 79.99,
+      "description": "Giày chạy thể thao với thiết kế hiện đại, cung cấp sự thoải mái và hỗ trợ tối ưu cho đôi chân trong mọi hoạt động.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/61FMCz3zSyL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 300
+      }
+    },
+    {
+      "id": "4cbb9d5e-62a6-4722-a0cc-6bfb5ecb048d",
+      "title": "Elegant Gold Ring",
+      "price": 199.99,
+      "description": "Nhẫn vàng tinh tế, thiết kế sang trọng phù hợp với những dịp đặc biệt, tạo điểm nhấn hoàn hảo cho phong cách của bạn.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/81XYK2vW5PL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 120
+      }
+    },
+    {
+      "id": "3d519b9d-5f3a-4df5-9679-1ff123fd43fc",
+      "title": "Men's Casual Jacket",
+      "price": 89.99,
+      "description": "Áo khoác nam thời trang, thích hợp cho mùa thu đông, mang đến sự ấm áp và phong cách.",
+      "category": "jackets",
+      "image": "https://fakestoreapi.com/img/61sM4gXWUtL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 250
+      }
+    },
+    {
+      "id": "ac683a57-cf45-4b6b-bc6c-69d0a054b0f7",
+      "title": "Classic Leather Shoes",
+      "price": 129.99,
+      "description": "Giày da cổ điển với thiết kế thanh lịch, thích hợp cho cả công việc và dạo phố.",
+      "category": "shoes",
+      "image": "https://fakestoreapi.com/img/61Hh1Foc2AL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 180
+      }
+    },
+    {
+      "id": "3b39d9a2-e3c8-4fd5-8d05-e5bafe9eae57",
+      "title": "Men's Sports Hoodie",
+      "price": 49.99,
+      "description": "Hoodie thể thao nam với chất liệu cao cấp, thiết kế năng động phù hợp cho các hoạt động thể chất.",
+      "category": "hoodies",
+      "image": "https://fakestoreapi.com/img/61ZChfMVPQL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 200
+      }
+    },
+    {
+      "id": "cbdbb889-e134-4593-b30f-e07764207770",
+      "title": "Trendy Sunglasses",
+      "price": 19.99,
+      "description": "Kính râm thời trang với thiết kế hiện đại, bảo vệ mắt bạn khỏi tác hại của tia UV.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/71z0B9W11JL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 90
+      }
+    },
+    {
+      "id": "c25e1658-d75e-43ef-ae1a-2d8455f94c5b",
+      "title": "Luxury Watch",
+      "price": 299.99,
+      "description": "Đồng hồ sang trọng với thiết kế tinh xảo, là món phụ kiện hoàn hảo cho phong cách của bạn.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/61toG4M2CpL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 140
+      }
+    },
+    {
+      "id": "f1521bb2-dc77-49b1-8684-cc3d59731e3d",
+      "title": "Women’s Casual Dress",
+      "price": 59.99,
+      "description": "Váy đầm nữ với thiết kế thanh lịch, chất liệu thoải mái và phù hợp cho các dịp tiệc tùng.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/61sV91zEVlL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 100
+      }
+    },
+    {
+      "id": "c19ae19b-99c1-43d3-b3aa-02ac4c916d77",
+      "title": "Stylish Laptop Backpack",
+      "price": 89.99,
+      "description": "Ba lô đựng laptop thời trang, với nhiều ngăn tiện lợi, phù hợp cho sinh viên và nhân viên văn phòng.",
+      "category": "bags",
+      "image": "https://fakestoreapi.com/img/81v-Eo6ys4L._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 170
+      }
+    },
+    {
+      "id": "00e17d79-fb9f-442d-a86d-564cb2e7f2f5",
+      "title": "Wireless Bluetooth Headphones",
+      "price": 59.99,
+      "description": "Tai nghe Bluetooth không dây với âm thanh chất lượng cao và thời gian sử dụng lâu dài, hoàn hảo cho những ai yêu thích âm nhạc.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71D8POz5PfL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      }
+    },
+    {
+      "id": "7a17a31b-0c64-4db7-b75d-5f0f1ff1e5dc",
+      "title": "LED Desk Lamp",
+      "price": 39.99,
+      "description": "Đèn bàn LED với thiết kế hiện đại, điều chỉnh độ sáng linh hoạt và tiết kiệm năng lượng, thích hợp cho không gian làm việc hoặc học tập.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/81Q6A48BWeL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      }
+    },
+    {
+      "id": "6aeef1ae-8e62-48e5-9c81-c9c77e8fa992",
+      "title": "Smartphone with 128GB Storage",
+      "price": 599.99,
+      "description": "Smartphone với bộ nhớ 128GB, màn hình lớn và camera chất lượng cao, lý tưởng cho việc chụp ảnh và sử dụng ứng dụng.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61rDQlDmbiL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 175
+      }
+    },
+    {
+      "id": "7ed05d51-f0c5-46d3-a6ab-2d78d682fc78",
+      "title": "Comfortable Office Chair",
+      "price": 149.99,
+      "description": "Ghế văn phòng thoải mái với thiết kế ergonomic, giúp giảm đau lưng và tạo cảm giác dễ chịu trong nhiều giờ làm việc.",
+      "category": "furniture",
+      "image": "https://fakestoreapi.com/img/71AZ3gMnlBL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 90
+      }
+    },
+    {
+      "id": "c4eaff58-e0e1-4f5e-b5e6-1c3c87d4a1ae",
+      "title": "Stylish Wristwatch",
+      "price": 89.99,
+      "description": "Đồng hồ đeo tay phong cách với thiết kế thanh lịch, là món quà tuyệt vời cho người thân yêu.",
+      "category": "jewelry",
+      "image": "https://fakestoreapi.com/img/61ekU50uYML._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 125
+      }
+    },
+    {
+      "id": "cd69e1b2-928c-4c02-bcb0-74b29f1b59f4",
+      "title": "Casual Sneakers",
+      "price": 69.99,
+      "description": "Sneakers thời trang cho các hoạt động hàng ngày, với chất liệu thoáng khí và thiết kế năng động.",
+      "category": "sneakers",
+      "image": "https://fakestoreapi.com/img/71Hj52-nNyL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 160
+      }
+    },
+    {
+      "id": "ca8c1e59-59de-4f5b-8293-775d648ae500",
+      "title": "Professional Hair Dryer",
+      "price": 49.99,
+      "description": "Máy sấy tóc chuyên nghiệp với nhiều chế độ nhiệt độ và tốc độ, giúp tóc khô nhanh chóng mà không làm hư tổn.",
+      "category": "cosmetics",
+      "image": "https://fakestoreapi.com/img/61qOdYF1NwL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 85
+      }
+    },
+    {
+      "id": "54d67d84-c752-4a9a-a749-1e3d7475a9e4",
+      "title": "Luxury Handbag",
+      "price": 249.99,
+      "description": "Túi xách cao cấp với thiết kế sang trọng, hoàn hảo cho những dịp đặc biệt hoặc đi làm.",
+      "category": "fashion",
+      "image": "https://fakestoreapi.com/img/71wGtOqxyDL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 75
+      }
+    },
+    {
+      "id": "9c7608a8-f74b-4d82-bcf8-3c378d40f42e",
+      "title": "Yoga Mat",
+      "price": 24.99,
+      "description": "Thảm yoga chất lượng cao, chống trượt và bền bỉ, lý tưởng cho các bài tập thể dục tại nhà.",
+      "category": "fitness",
+      "image": "https://fakestoreapi.com/img/61kD33Z9bnL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 110
+      }
     }
-  },
-  {
-    "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
-    "title": "Mens Casual Premium Slim Fit T-Shirts",
-    "price": 22.3,
-    "description": "Áo thun với kiểu dáng slim-fit, tay raglan tương phản dài, và khóa ba nút. Chất liệu nhẹ và mềm mại, đảm bảo sự thoải mái và thông thoáng cho người mặc. Đây là lựa chọn tuyệt vời cho cả những buổi đi chơi hay làm việc. Với thiết kế hiện đại và màu sắc đa dạng, bạn có thể dễ dàng phối hợp với nhiều trang phục khác nhau. Sản phẩm này không chỉ mang lại vẻ ngoài thời trang mà còn giúp bạn cảm thấy tự tin trong mọi tình huống.",
-    "category": "hoodies",
-    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
-  },
-  {
-    "id": "1b407f43-9179-40f3-85e4-e1c54f789f36",
-    "title": "Mens Cotton Jacket",
-    "price": 55.99,
-    "description": "Chiếc áo khoác ngoài tuyệt vời cho mùa Xuân, Thu, và Đông, phù hợp với nhiều dịp như làm việc, đi bộ đường dài, cắm trại, và nhiều hoạt động ngoài trời khác. Với chất liệu cotton bền bỉ, nó không chỉ mang lại sự thoải mái mà còn giúp bạn nổi bật trong đám đông. Thiết kế kiểu dáng thời trang, có nhiều túi tiện lợi để đựng những vật dụng nhỏ, giúp bạn dễ dàng truy cập mọi thứ khi cần. Sản phẩm này sẽ là một phần không thể thiếu trong tủ đồ của bạn.",
-    "category": "jackets",
-    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-    "rating": {
-      "rate": 4.7,
-      "count": 500
-    }
-  },
-  {
-    "id": "4766c2b3-412b-47b1-9d72-b1732c6f3c4e",
-    "title": "Mens Casual Slim Fit",
-    "price": 15.99,
-    "description": "Chiếc áo này có thể có màu sắc hơi khác nhau giữa màn hình và thực tế. Xin lưu ý rằng vóc dáng của cơ thể mỗi người cũng có sự khác biệt. Thích hợp cho việc mặc hàng ngày và các hoạt động thể thao. Chất liệu mềm mại giúp bạn cảm thấy thoải mái khi mặc trong thời gian dài, đồng thời dễ dàng bảo quản và giặt sạch.",
-    "category": "hoodies",
-    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-    "rating": {
-      "rate": 2.1,
-      "count": 430
-    }
-  },
-  {
-    "id": "b9ccdb63-731f-47d4-b0c1-3036f6e34f7e",
-    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-    "price": 695,
-    "description": "Từ bộ sưu tập Legends của chúng tôi, Naga được lấy cảm hứng từ con rồng nước huyền thoại bảo vệ viên ngọc trai của đại dương. Với thiết kế tinh xảo và chất liệu cao cấp, đây là món trang sức hoàn hảo để thể hiện cá tính và phong cách của bạn. Món trang sức này không chỉ là một phụ kiện, mà còn là biểu tượng của sức mạnh và sự bảo vệ, khiến nó trở thành món quà lý tưởng cho những người phụ nữ quan trọng trong cuộc đời bạn.",
-    "category": "jewelry",
-    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-    "rating": {
-      "rate": 4.6,
-      "count": 400
-    }
-  },
-  {
-    "id": "b3189a0f-cc1b-4906-b9ea-e09e27b4f241",
-    "title": "Solid Gold Petite Micropave",
-    "price": 168,
-    "description": "Đảm bảo sự hài lòng. Bạn có thể trả lại hoặc đổi bất kỳ đơn hàng nào trong vòng 30 ngày. Món trang sức này mang đến vẻ đẹp tinh tế và sang trọng, rất phù hợp cho những dịp đặc biệt. Với thiết kế nhỏ gọn và tinh xảo, nó có thể trở thành một phần không thể thiếu trong bộ sưu tập trang sức của bạn.",
-    "category": "jewelry",
-    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-    "rating": {
-      "rate": 3.9,
-      "count": 70
-    }
-  },
-  {
-    "id": "6d61c517-bd77-4d4f-825a-d06b5e2a9906",
-    "title": "White Gold Plated Princess",
-    "price": 9.99,
-    "description": "Chiếc nhẫn đính hôn kim cương solitaire cổ điển được tạo ra cho cô ấy. Được thiết kế tinh tế với chất liệu vàng trắng, đây là biểu tượng của tình yêu và sự cam kết. Món trang sức này không chỉ đẹp mắt mà còn mang ý nghĩa sâu sắc, là món quà hoàn hảo cho những dịp kỷ niệm hay cầu hôn.",
-    "category": "jewelry",
-    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-    "rating": {
-      "rate": 3,
-      "count": 400
-    }
-  },
-  {
-    "id": "fa4e4f91-b63c-48a2-a6e6-80000c8df08b",
-    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-    "price": 10.99,
-    "description": "Khuyên tai với thiết kế hình cú, được mạ vàng hồng và làm từ thép không gỉ 316L. Đây là một món trang sức độc đáo, phù hợp cho những ai yêu thích sự khác biệt. Thiết kế hiện đại và tinh tế, khiến nó trở thành món quà tuyệt vời cho những dịp sinh nhật hoặc lễ kỷ niệm.",
-    "category": "jewelry",
-    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-    "rating": {
-      "rate": 1.9,
-      "count": 100
-    }
-  },
-  {
-    "id": "a1b7fdf3-44e3-4e0d-8e3e-012e8a181e92",
-    "title": "Adidas Ultraboost 21 Shoes",
-    "price": 180,
-    "description": "Giày thể thao Adidas Ultraboost 21 được thiết kế để cung cấp sự thoải mái tối đa và hiệu suất tuyệt vời. Được trang bị công nghệ Boost độc quyền của Adidas, đôi giày này giúp bạn cảm nhận được sự đàn hồi và linh hoạt trong mỗi bước đi. Với thiết kế thể thao hiện đại, nó rất phù hợp cho việc chạy bộ, tập gym hoặc đi dạo phố.",
-    "category": "sneakers",
-    "image": "https://fakestoreapi.com/img/81QWz-Py0aL._AC_SL1500_.jpg",
-    "rating": {
-      "rate": 4.5,
-      "count": 300
-    }
-  },
-  {
-    "id": "f2c3b982-10fc-4610-8b26-f689dc0625a8",
-    "title": "Nike Air Zoom Pegasus 37",
-    "price": 120,
-    "description": "Nike Air Zoom Pegasus 37 được thiết kế cho những người yêu thích chạy bộ, mang lại sự nhẹ nhàng và êm ái trong từng bước chạy. Đế giày với công nghệ Zoom Air giúp tăng cường độ đàn hồi và khả năng phản hồi. Kiểu dáng thể thao hiện đại và phong cách, rất phù hợp cho cả những người đam mê thể thao và thời trang.",
-    "category": "sneakers",
-    "image": "https://fakestoreapi.com/img/71QVxtFfthL._AC_SL1500_.jpg",
-    "rating": {
-      "rate": 4.8,
-      "count": 500
-    }
-  },
-    {
-        "id": "1b55d4f3-4410-4a14-bb7f-f48f92563243",
-        "title": "Samsung Galaxy S21 Ultra 5G",
-        "price": 1199.99,
-        "description": "Samsung Galaxy S21 Ultra là chiếc smartphone cao cấp nhất trong dòng Galaxy S21, mang đến trải nghiệm vượt trội với màn hình Dynamic AMOLED 2X 6.8 inch, camera chính 108 MP, và pin 5000 mAh. Thiết kế sang trọng, hiệu năng mạnh mẽ với vi xử lý Exynos 2100 hoặc Snapdragon 888, giúp bạn chụp ảnh, quay video và chơi game mượt mà.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71nGgZK9bbL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 200
-        }
-    },
-    {
-        "id": "77dbe2a1-8b51-4d85-8f60-dc073ecb78c0",
-        "title": "Apple iPhone 13 Pro",
-        "price": 999.99,
-        "description": "Apple iPhone 13 Pro với màn hình Super Retina XDR 6.1 inch, vi xử lý A15 Bionic nhanh nhất thế giới, và hệ thống camera Pro với tính năng Night mode. Màu sắc đẹp mắt, thời lượng pin kéo dài, đây là lựa chọn hoàn hảo cho những ai yêu thích công nghệ và chụp ảnh.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71pDtp7qOmL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 150
-        }
-    },
-    {
-        "id": "4bcafecc-d72a-4c3e-b5a7-4e0e13a51c4f",
-        "title": "Ray-Ban RB2132 New Wayfarer Sunglasses",
-        "price": 154.99,
-        "description": "Kính mát Ray-Ban RB2132 New Wayfarer mang đến phong cách thời trang cổ điển với thiết kế hiện đại. Chất liệu bền bỉ và kính chống UV, là lựa chọn hoàn hảo cho mùa hè hay các hoạt động ngoài trời.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/61u7qmfCLqL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.3,
-            "count": 75
-        }
-    },
-    {
-        "id": "86e4b8d4-cc0e-4df9-aaf6-4fd1c7d2bc12",
-        "title": "L'Oreal Paris Makeup Infallible Pro-Matte Liquid Lipstick",
-        "price": 9.99,
-        "description": "Son môi L'Oreal Paris Infallible Pro-Matte mang đến màu sắc bền lâu và hoàn thiện matte tuyệt đẹp. Với công thức không nhòe và không khô môi, đây là lựa chọn lý tưởng cho những ai yêu thích trang điểm.",
-        "category": "cosmetics",
-        "image": "https://fakestoreapi.com/img/51EIH71MIvL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.0,
-            "count": 100
-        }
-    },
-    {
-        "id": "2e362f6d-b5a2-4a5a-b9ff-cac15ef1c1d1",
-        "title": "Industrial Multi-Tool",
-        "price": 39.99,
-        "description": "Công cụ đa năng công nghiệp, bao gồm nhiều tính năng như cắt, mở nắp chai, và nhiều công dụng khác. Thiết kế bền bỉ, dễ dàng mang theo, phù hợp cho các dự án DIY và công việc hàng ngày.",
-        "category": "industrial",
-        "image": "https://fakestoreapi.com/img/71Mwfg0R4yL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.2,
-            "count": 60
-        }
-    },
-    {
-        "id": "69345269-36c8-4173-8d6c-f2e8c24a1e6e",
-        "title": "Modern Wooden Dining Table",
-        "price": 499.99,
-        "description": "Bàn ăn gỗ hiện đại, thiết kế tối giản và sang trọng, phù hợp cho mọi không gian sống. Chất liệu gỗ tự nhiên bền bỉ, dễ dàng lau chùi, tạo điểm nhấn cho phòng ăn của bạn.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/71cK0eLRNzL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.9,
-            "count": 25
-        }
-    },
-    {
-        "id": "4db45e68-07e2-4d94-92f3-f7c57892a004",
-        "title": "Leather Office Chair",
-        "price": 199.99,
-        "description": "Ghế văn phòng da cao cấp, thiết kế ergonomics giúp bạn thoải mái trong thời gian dài làm việc. Chất liệu da dễ dàng vệ sinh, là lựa chọn lý tưởng cho văn phòng làm việc tại nhà.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/71LzAIiYI4L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 40
-        }
-    },
-    {
-        "id": "8a5c0d8e-19cf-4c9e-851e-e94b618e6ff2",
-        "title": "Wireless Bluetooth Headphones",
-        "price": 59.99,
-        "description": "Tai nghe Bluetooth không dây với chất lượng âm thanh tuyệt vời và thời gian sử dụng lâu dài. Thiết kế nhẹ và thoải mái, lý tưởng cho việc nghe nhạc hoặc đàm thoại.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61ZzOqzzpPL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 200
-        }
-    },
-    {
-        "id": "c368fcb2-5d35-4586-b22f-5480615f0ebf",
-        "title": "Fujifilm Instax Mini 11 Instant Camera",
-        "price": 69.99,
-        "description": "Máy ảnh Instax Mini 11 cho phép bạn chụp và in ảnh ngay lập tức. Thiết kế nhỏ gọn, dễ sử dụng, phù hợp cho các buổi tiệc, du lịch hoặc làm quà tặng.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/81xy1KPJ9wL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.8,
-            "count": 150
-        }
-    },
-    {
-        "id": "23f3b5ef-1f2f-4afc-9036-1232f174afc8",
-        "title": "Xiaomi Mi Band 6",
-        "price": 49.99,
-        "description": "Mi Band 6 là một trong những thiết bị đeo tay thông minh tốt nhất hiện nay với màn hình AMOLED 1.56 inch, theo dõi sức khỏe 24/7 và hỗ trợ hơn 30 chế độ thể thao khác nhau. Thời lượng pin lên tới 14 ngày, rất lý tưởng cho những người yêu thích thể dục.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71VxXkK7ZhL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 250
-        }
-    },
-    {
-        "id": "dc4fa868-b84f-462b-83af-c0a52a8b57c3",
-        "title": "Nike Air Max 270",
-        "price": 129.99,
-        "description": "Giày thể thao Nike Air Max 270 với thiết kế năng động, đế giày êm ái, phù hợp cho việc tập luyện và đi chơi. Chất liệu thoáng khí, giúp chân luôn cảm thấy thoải mái.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/71kV6EtCX7L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 180
-        }
-    },
-    {
-        "id": "98b2c9e1-1c84-4865-ae88-4ffbf34d6be1",
-        "title": "Maybelline New York SuperStay Matte Ink Liquid Lipstick",
-        "price": 11.99,
-        "description": "Son môi Maybelline SuperStay Matte Ink với công thức bền màu, giúp bạn tự tin suốt cả ngày. Đặc biệt với nhiều màu sắc đa dạng, dễ dàng lựa chọn theo phong cách của bạn.",
-        "category": "cosmetics",
-        "image": "https://fakestoreapi.com/img/51rwx8gk2pL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 200
-        }
-    },
-    {
-        "id": "7a2b7d8f-7c9e-4b89-babc-120df3cfb579",
-        "title": "Portable Air Compressor",
-        "price": 39.99,
-        "description": "Máy nén khí di động giúp bạn bơm hơi cho xe ô tô, xe đạp, và các thiết bị khác một cách nhanh chóng và tiện lợi. Thiết kế nhỏ gọn, dễ dàng mang theo bên mình.",
-        "category": "industrial",
-        "image": "https://fakestoreapi.com/img/61nDti2vcUL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.3,
-            "count": 85
-        }
-    },
-    {
-        "id": "f038c4c1-3c5c-4af9-b9e8-80d7f226f0c5",
-        "title": "Wooden Coffee Table",
-        "price": 299.99,
-        "description": "Bàn cà phê gỗ tự nhiên với thiết kế hiện đại, sang trọng. Chất liệu gỗ chắc chắn, dễ dàng vệ sinh, phù hợp cho không gian sống hiện đại.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/61ETWx6hCqL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 45
-        }
-    },
-    {
-        "id": "f71a2ed2-bc35-4c97-b163-90be14a00b02",
-        "title": "Bluetooth Smart Scale",
-        "price": 29.99,
-        "description": "Cân thông minh Bluetooth giúp theo dõi trọng lượng và chỉ số cơ thể của bạn. Kết nối với ứng dụng trên điện thoại để theo dõi tiến trình sức khỏe một cách dễ dàng.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/81bE2u8Q1yL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 150
-        }
-    },
-    {
-        "id": "b3d7e046-2b8d-4e08-805f-160b0734b34a",
-        "title": "Casual Summer Dress",
-        "price": 49.99,
-        "description": "Váy mùa hè thoải mái với thiết kế đơn giản nhưng thanh lịch. Chất liệu mềm mại, thoáng khí, phù hợp cho những buổi dạo chơi hoặc đi biển.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/61vLXpVJHzL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.2,
-            "count": 90
-        }
-    },
-    {
-        "id": "4e4773c7-9136-4d1d-8067-66e9cbb9e4bc",
-        "title": "Clinique Moisture Surge 72-Hour Auto-Replenishing Hydrator",
-        "price": 39.99,
-        "description": "Kem dưỡng ẩm Clinique Moisture Surge giúp cung cấp độ ẩm suốt 72 giờ. Với công thức nhẹ nhàng, sản phẩm giúp làm mềm và cấp nước cho làn da, mang lại cảm giác mịn màng và căng bóng.",
-        "category": "cosmetics",
-        "image": "https://fakestoreapi.com/img/61x7J0-uVHL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 120
-        }
-    },
-    {
-        "id": "a5071f66-5c67-4380-8f1e-75e506d16b5c",
-        "title": "Heavy Duty Hand Truck",
-        "price": 89.99,
-        "description": "Xe đẩy hàng đa năng, thiết kế chắc chắn, giúp bạn vận chuyển hàng hóa một cách dễ dàng. Tải trọng lớn, phù hợp cho các công việc nặng.",
-        "category": "industrial",
-        "image": "https://fakestoreapi.com/img/71fF5nN8eTL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 75
-        }
-    },
-    {
-        "id": "d60e6f0b-86ec-413f-8496-f4b0c2b9e624",
-        "title": "Apple iPhone 14",
-        "price": 999.99,
-        "description": "Apple iPhone 14 với camera kép 12MP, màn hình Super Retina XDR 6.1 inch và chip A15 Bionic. Cung cấp hiệu suất mạnh mẽ và khả năng chụp ảnh tuyệt vời.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71w3J0HQ7BL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 150
-        }
-    },
-    {
-        "id": "a4e3b0ae-d7bb-4d54-a8f6-6f502aebc597",
-        "title": "Adidas Ultraboost 21",
-        "price": 169.99,
-        "description": "Giày chạy bộ Adidas Ultraboost 21 với công nghệ đệm Boost mang lại sự êm ái và thoải mái. Thiết kế năng động, phù hợp cho cả luyện tập và thời trang.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/61pHqgH2a8L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.8,
-            "count": 200
-        }
-    },
-    {
-        "id": "ee50b920-6d6b-43c6-a3c8-bdd24cd146e1",
-        "title": "L'Oreal Paris Revitalift Anti-Aging Serum",
-        "price": 34.99,
-        "description": "Serum chống lão hóa Revitalift từ L'Oreal Paris giúp làm giảm nếp nhăn và cải thiện độ đàn hồi của da. Chứa hyaluronic acid và vitamin C, mang lại làn da trẻ trung.",
-        "category": "cosmetics",
-        "image": "https://fakestoreapi.com/img/61Jxb4QGZ5L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 160
-        }
-    },
-    {
-        "id": "6cb58243-d59b-4534-8f7f-0836601ac749",
-        "title": "Industrial Electric Heater",
-        "price": 199.99,
-        "description": "Máy sưởi điện công nghiệp, công suất lớn, giúp làm ấm không gian nhanh chóng. Thiết kế bền bỉ, phù hợp cho các công trình và nhà kho.",
-        "category": "industrial",
-        "image": "https://fakestoreapi.com/img/61Hjh3SU6BL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 50
-        }
-    },
-    {
-        "id": "f837f8c2-86cf-474f-9cb4-3ffb3f9c31b4",
-        "title": "Luxury Velvet Sofa",
-        "price": 799.99,
-        "description": "Sofa nhung cao cấp với thiết kế sang trọng, mang lại cảm giác thoải mái và phong cách cho không gian sống của bạn.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/71z3L2cLrUL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.9,
-            "count": 30
-        }
-    },
-    {
-        "id": "c1c23429-b09a-4c89-8e66-b7a72fda45a0",
-        "title": "Bluetooth Wireless Earbuds",
-        "price": 49.99,
-        "description": "Tai nghe không dây Bluetooth với chất lượng âm thanh tuyệt vời và thời lượng pin lên tới 20 giờ. Thiết kế nhỏ gọn, dễ dàng mang theo.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71uPT8AnW1L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 110
-        }
-    },
-    {
-        "id": "f7b4b74f-77e4-42e2-8a1a-70f7f29ffcd4",
-        "title": "Levi's 511 Slim Fit Jeans",
-        "price": 59.99,
-        "description": "Quần jeans Levi's 511 Slim Fit với chất liệu cotton cao cấp, mang lại sự thoải mái và phong cách trẻ trung cho bạn.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/61j6BZ9sWqL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 140
-        }
-    },
-    {
-        "id": "f44e3e5d-5b56-4852-b38a-e79e6b6bc0b4",
-        "title": "Kiehl's Ultra Facial Cream",
-        "price": 32.99,
-        "description": "Kem dưỡng ẩm Kiehl's Ultra Facial Cream giúp giữ ẩm cho da suốt 24 giờ. Với công thức nhẹ nhàng, phù hợp cho mọi loại da.",
-        "category": "cosmetics",
-        "image": "https://fakestoreapi.com/img/61GHs4i1oDL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 70
-        }
-    },
-    {
-        "id": "47d8da98-1c62-43bb-9758-02b9b5e66d4c",
-        "title": "Heavy Duty Work Gloves",
-        "price": 19.99,
-        "description": "Găng tay làm việc chuyên dụng, giúp bảo vệ tay trong các công việc nặng. Chất liệu chắc chắn, bền bỉ.",
-        "category": "industrial",
-        "image": "https://fakestoreapi.com/img/71z7sLkzXfL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.3,
-            "count": 90
-        }
-    },
-    {
-        "id": "c102d2dc-e5d0-4338-bc39-5c814b299ff7",
-        "title": "Wooden Bookshelf",
-        "price": 149.99,
-        "description": "Kệ sách gỗ tự nhiên với thiết kế đơn giản nhưng tinh tế, phù hợp để lưu trữ sách và trang trí không gian sống.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/61yOD0m7D5L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 80
-        }
-    },
-    {
-        "id": "f9c4f13b-e2b7-4d47-b5f6-e514c4e8a91e",
-        "title": "Men's Hoodie",
-        "price": 49.99,
-        "description": "Hoodie nam với chất liệu cotton thoáng khí, thiết kế thời trang, thích hợp cho mọi hoạt động hàng ngày.",
-        "category": "hoodies",
-        "image": "https://fakestoreapi.com/img/71XzTYD1E7L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 150
-        }
-    },
-    {
-        "id": "8c0b9b42-9184-4977-bf26-9f7f13e7aa5a",
-        "title": "Gold Plated Hoop Earrings",
-        "price": 29.99,
-        "description": "Khuyên tai hình tròn mạ vàng, thiết kế tinh tế và sang trọng, hoàn hảo cho mọi dịp.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71n3PqUlI3L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 200
-        }
-    },
-    {
-        "id": "e623c15d-f644-4c93-b4a4-4cb567ce7c4e",
-        "title": "Nike Air Max 270",
-        "price": 149.99,
-        "description": "Giày thể thao Nike Air Max 270 với thiết kế đế cao su và công nghệ đệm khí, mang lại cảm giác thoải mái tối đa.",
-        "category": "sneakers",
-        "image": "https://fakestoreapi.com/img/71OlgUk2b6L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.8,
-            "count": 250
-        }
-    },
-    {
-        "id": "67f5e484-4cd9-472b-b2be-83bc5f1e27e2",
-        "title": "Men's Casual Shoes",
-        "price": 59.99,
-        "description": "Giày đi chơi nam với thiết kế thời trang và chất liệu da cao cấp, thích hợp cho mọi dịp.",
-        "category": "shoes",
-        "image": "https://fakestoreapi.com/img/61wa3-fkpeL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 180
-        }
-    },
-    {
-        "id": "bb2767e8-9937-4bc3-8c1c-9dc90c67ab8f",
-        "title": "Women's Running Shoes",
-        "price": 89.99,
-        "description": "Giày chạy nữ với thiết kế nhẹ và thoáng khí, giúp tăng cường hiệu suất trong khi tập luyện.",
-        "category": "sneakers",
-        "image": "https://fakestoreapi.com/img/61m2e1npP5L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 160
-        }
-    },
-    {
-        "id": "f28d2445-8b71-41e0-8510-3f1868c0aebd",
-        "title": "Leather Backpack",
-        "price": 119.99,
-        "description": "Ba lô da cao cấp với thiết kế thời trang và ngăn chứa rộng rãi, phù hợp cho việc đi học và du lịch.",
-        "category": "bags",
-        "image": "https://fakestoreapi.com/img/81yzH8xT2qL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 90
-        }
-    },
-    {
-        "id": "ef90b02a-bcc0-4a37-b9b8-61ae6f1e48de",
-        "title": "Diamond Stud Earrings",
-        "price": 79.99,
-        "description": "Khuyên tai đính kim cương, thiết kế thanh lịch và sang trọng, thích hợp làm quà tặng cho người thân.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71Z0ytVwnzL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.9,
-            "count": 120
-        }
-    },
-    {
-        "id": "f70b7de6-df85-4456-8b2b-fb77268848d2",
-        "title": "Hoodie Sweatshirt",
-        "price": 39.99,
-        "description": "Áo hoodie với chất liệu mềm mại, kiểu dáng thể thao, thích hợp cho mùa đông.",
-        "category": "hoodies",
-        "image": "https://fakestoreapi.com/img/61yfbOcbp6L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 100
-        }
-    },
-    {
-        "id": "2a8a378e-3f32-46eb-9f8d-7a008653cdd1",
-        "title": "Stylish Running Shoes",
-        "price": 79.99,
-        "description": "Giày chạy thể thao với thiết kế hiện đại, cung cấp sự thoải mái và hỗ trợ tối ưu cho đôi chân trong mọi hoạt động.",
-        "category": "sneakers",
-        "image": "https://fakestoreapi.com/img/61FMCz3zSyL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.8,
-            "count": 300
-        }
-    },
-    {
-        "id": "4cbb9d5e-62a6-4722-a0cc-6bfb5ecb048d",
-        "title": "Elegant Gold Ring",
-        "price": 199.99,
-        "description": "Nhẫn vàng tinh tế, thiết kế sang trọng phù hợp với những dịp đặc biệt, tạo điểm nhấn hoàn hảo cho phong cách của bạn.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/81XYK2vW5PL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 120
-        }
-    },
-    {
-        "id": "3d519b9d-5f3a-4df5-9679-1ff123fd43fc",
-        "title": "Men's Casual Jacket",
-        "price": 89.99,
-        "description": "Áo khoác nam thời trang, thích hợp cho mùa thu đông, mang đến sự ấm áp và phong cách.",
-        "category": "jackets",
-        "image": "https://fakestoreapi.com/img/61sM4gXWUtL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 250
-        }
-    },
-    {
-        "id": "ac683a57-cf45-4b6b-bc6c-69d0a054b0f7",
-        "title": "Classic Leather Shoes",
-        "price": 129.99,
-        "description": "Giày da cổ điển với thiết kế thanh lịch, thích hợp cho cả công việc và dạo phố.",
-        "category": "shoes",
-        "image": "https://fakestoreapi.com/img/61Hh1Foc2AL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.9,
-            "count": 180
-        }
-    },
-    {
-        "id": "3b39d9a2-e3c8-4fd5-8d05-e5bafe9eae57",
-        "title": "Men's Sports Hoodie",
-        "price": 49.99,
-        "description": "Hoodie thể thao nam với chất liệu cao cấp, thiết kế năng động phù hợp cho các hoạt động thể chất.",
-        "category": "hoodies",
-        "image": "https://fakestoreapi.com/img/61ZChfMVPQL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 200
-        }
-    },
-    {
-        "id": "cbdbb889-e134-4593-b30f-e07764207770",
-        "title": "Trendy Sunglasses",
-        "price": 19.99,
-        "description": "Kính râm thời trang với thiết kế hiện đại, bảo vệ mắt bạn khỏi tác hại của tia UV.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/71z0B9W11JL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.3,
-            "count": 90
-        }
-    },
-    {
-        "id": "c25e1658-d75e-43ef-ae1a-2d8455f94c5b",
-        "title": "Luxury Watch",
-        "price": 299.99,
-        "description": "Đồng hồ sang trọng với thiết kế tinh xảo, là món phụ kiện hoàn hảo cho phong cách của bạn.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/61toG4M2CpL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.8,
-            "count": 140
-        }
-    },
-    {
-        "id": "f1521bb2-dc77-49b1-8684-cc3d59731e3d",
-        "title": "Women’s Casual Dress",
-        "price": 59.99,
-        "description": "Váy đầm nữ với thiết kế thanh lịch, chất liệu thoải mái và phù hợp cho các dịp tiệc tùng.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/61sV91zEVlL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 100
-        }
-    },
-    {
-        "id": "c19ae19b-99c1-43d3-b3aa-02ac4c916d77",
-        "title": "Stylish Laptop Backpack",
-        "price": 89.99,
-        "description": "Ba lô đựng laptop thời trang, với nhiều ngăn tiện lợi, phù hợp cho sinh viên và nhân viên văn phòng.",
-        "category": "bags",
-        "image": "https://fakestoreapi.com/img/81v-Eo6ys4L._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 170
-        }
-    },
-    {
-        "id": "00e17d79-fb9f-442d-a86d-564cb2e7f2f5",
-        "title": "Wireless Bluetooth Headphones",
-        "price": 59.99,
-        "description": "Tai nghe Bluetooth không dây với âm thanh chất lượng cao và thời gian sử dụng lâu dài, hoàn hảo cho những ai yêu thích âm nhạc.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71D8POz5PfL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 210
-        }
-    },
-    {
-        "id": "7a17a31b-0c64-4db7-b75d-5f0f1ff1e5dc",
-        "title": "LED Desk Lamp",
-        "price": 39.99,
-        "description": "Đèn bàn LED với thiết kế hiện đại, điều chỉnh độ sáng linh hoạt và tiết kiệm năng lượng, thích hợp cho không gian làm việc hoặc học tập.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/81Q6A48BWeL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.3,
-            "count": 130
-        }
-    },
-    {
-        "id": "6aeef1ae-8e62-48e5-9c81-c9c77e8fa992",
-        "title": "Smartphone with 128GB Storage",
-        "price": 599.99,
-        "description": "Smartphone với bộ nhớ 128GB, màn hình lớn và camera chất lượng cao, lý tưởng cho việc chụp ảnh và sử dụng ứng dụng.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61rDQlDmbiL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 175
-        }
-    },
-    {
-        "id": "7ed05d51-f0c5-46d3-a6ab-2d78d682fc78",
-        "title": "Comfortable Office Chair",
-        "price": 149.99,
-        "description": "Ghế văn phòng thoải mái với thiết kế ergonomic, giúp giảm đau lưng và tạo cảm giác dễ chịu trong nhiều giờ làm việc.",
-        "category": "furniture",
-        "image": "https://fakestoreapi.com/img/71AZ3gMnlBL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 90
-        }
-    },
-    {
-        "id": "c4eaff58-e0e1-4f5e-b5e6-1c3c87d4a1ae",
-        "title": "Stylish Wristwatch",
-        "price": 89.99,
-        "description": "Đồng hồ đeo tay phong cách với thiết kế thanh lịch, là món quà tuyệt vời cho người thân yêu.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/61ekU50uYML._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.8,
-            "count": 125
-        }
-    },
-    {
-        "id": "cd69e1b2-928c-4c02-bcb0-74b29f1b59f4",
-        "title": "Casual Sneakers",
-        "price": 69.99,
-        "description": "Sneakers thời trang cho các hoạt động hàng ngày, với chất liệu thoáng khí và thiết kế năng động.",
-        "category": "sneakers",
-        "image": "https://fakestoreapi.com/img/71Hj52-nNyL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 160
-        }
-    },
-    {
-        "id": "ca8c1e59-59de-4f5b-8293-775d648ae500",
-        "title": "Professional Hair Dryer",
-        "price": 49.99,
-        "description": "Máy sấy tóc chuyên nghiệp với nhiều chế độ nhiệt độ và tốc độ, giúp tóc khô nhanh chóng mà không làm hư tổn.",
-        "category": "cosmetics",
-        "image": "https://fakestoreapi.com/img/61qOdYF1NwL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 85
-        }
-    },
-    {
-        "id": "54d67d84-c752-4a9a-a749-1e3d7475a9e4",
-        "title": "Luxury Handbag",
-        "price": 249.99,
-        "description": "Túi xách cao cấp với thiết kế sang trọng, hoàn hảo cho những dịp đặc biệt hoặc đi làm.",
-        "category": "fashion",
-        "image": "https://fakestoreapi.com/img/71wGtOqxyDL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 75
-        }
-    },
-    {
-        "id": "9c7608a8-f74b-4d82-bcf8-3c378d40f42e",
-        "title": "Yoga Mat",
-        "price": 24.99,
-        "description": "Thảm yoga chất lượng cao, chống trượt và bền bỉ, lý tưởng cho các bài tập thể dục tại nhà.",
-        "category": "fitness",
-        "image": "https://fakestoreapi.com/img/61kD33Z9bnL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 110
-        }
-    }
-],
+  ],
   "orders": [
     {
-        "carts": [
-            {
-                "id": "1",
-                "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-                "price": 109.95,
-                "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-                "quantity": 2
-            }
-        ],
-        "userID": "1",
-        "date": "2024-09-27 02:56:42.863957",
-        "status": true,
-        "name": "donromer",
-        "address": "No.6454, Hunters Creek Dr, San Antonio",
-        "phone": "1-765-789-6734",
-        "paymentMethod": "Cash on Delivery",
-        "id": "29"
+      "carts": [
+        {
+          "id": "1",
+          "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 2
+        }
+      ],
+      "userID": "1",
+      "date": "2024-09-27 02:56:42.863957",
+      "status": true,
+      "name": "donromer",
+      "address": "No.6454, Hunters Creek Dr, San Antonio",
+      "phone": "1-765-789-6734",
+      "paymentMethod": "Cash on Delivery",
+      "id": "29"
     },
     {
-        "carts": [
-            {
-                "id": "1",
-                "name": "Comfortable Hoodie",
-                "price": 45.99,
-                "imageUrl": "https://picsum.photos/id/1010/300/200",
-                "quantity": 1
-            }
-        ],
-        "userID": 1,
-        "date": "2024-09-27 07:58:26.056430",
-        "status": true,
-        "name": "ThuanHT",
-        "address": "No.147, Nguyen Van Linh, Long An",
-        "phone": "0901-234-567",
-        "paymentMethod": "Cash on Delivery",
-        "id": "F3RToOq"
+      "carts": [
+        {
+          "id": "1",
+          "name": "Comfortable Hoodie",
+          "price": 45.99,
+          "imageUrl": "https://picsum.photos/id/1010/300/200",
+          "quantity": 1
+        }
+      ],
+      "userID": 1,
+      "date": "2024-09-27 07:58:26.056430",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "F3RToOq"
     },
     {
-        "carts": [
-            {
-                "id": "2",
-                "name": "Classic Sneakers",
-                "price": 60,
-                "imageUrl": "https://picsum.photos/id/1011/300/200",
-                "quantity": 1
-            }
-        ],
-        "userID": null,
-        "date": "2024-09-27 08:02:16.643474",
-        "status": true,
-        "name": "ThuanHT",
-        "address": "No.147, Nguyen Van Linh, Long An",
-        "phone": "0901-234-567",
-        "paymentMethod": "Cash on Delivery",
-        "id": "GO25X4Y"
+      "carts": [
+        {
+          "id": "2",
+          "name": "Classic Sneakers",
+          "price": 60,
+          "imageUrl": "https://picsum.photos/id/1011/300/200",
+          "quantity": 1
+        }
+      ],
+      "userID": null,
+      "date": "2024-09-27 08:02:16.643474",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "GO25X4Y"
     },
     {
-        "carts": [
-            {
-                "id": "2",
-                "name": "Classic Sneakers",
-                "price": 60,
-                "imageUrl": "https://picsum.photos/id/1011/300/200",
-                "quantity": 1
-            }
-        ],
-        "userID": null,
-        "date": "2024-09-27 08:04:27.952775",
-        "status": true,
-        "name": "ThuanHT",
-        "address": "No.147, Nguyen Van Linh, Long An",
-        "phone": "0901-234-567",
-        "paymentMethod": "Cash on Delivery",
-        "id": "y6qqpS1"
+      "carts": [
+        {
+          "id": "2",
+          "name": "Classic Sneakers",
+          "price": 60,
+          "imageUrl": "https://picsum.photos/id/1011/300/200",
+          "quantity": 1
+        }
+      ],
+      "userID": null,
+      "date": "2024-09-27 08:04:27.952775",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "y6qqpS1"
     },
     {
-        "carts": [
-            {
-                "id": "1",
-                "name": "Comfortable Hoodie",
-                "price": 45.99,
-                "imageUrl": "https://picsum.photos/id/1010/300/200",
-                "quantity": 3
-            }
-        ],
-        "userID": null,
-        "date": "2024-09-27 08:06:28.677657",
-        "status": true,
-        "name": "ThuanHT",
-        "address": "No.147, Nguyen Van Linh, Long An",
-        "phone": "0901-234-567",
-        "paymentMethod": "Cash on Delivery",
-        "id": "NP3DBwv"
+      "carts": [
+        {
+          "id": "1",
+          "name": "Comfortable Hoodie",
+          "price": 45.99,
+          "imageUrl": "https://picsum.photos/id/1010/300/200",
+          "quantity": 3
+        }
+      ],
+      "userID": null,
+      "date": "2024-09-27 08:06:28.677657",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "NP3DBwv"
     },
     {
-        "carts": [
-            {
-                "id": "1",
-                "name": "Comfortable Hoodie",
-                "price": 45.99,
-                "imageUrl": "https://picsum.photos/id/1010/300/200",
-                "quantity": 1
-            },
-            {
-                "id": "2",
-                "name": "Classic Sneakers",
-                "price": 60,
-                "imageUrl": "https://picsum.photos/id/1011/300/200",
-                "quantity": 1
-            },
-            {
-                "id": "3",
-                "name": "Casual Shorts",
-                "price": 25,
-                "imageUrl": "https://picsum.photos/id/1012/300/200",
-                "quantity": 1
-            }
-        ],
-        "userID": "2",
-        "date": "2024-09-27 08:08:02.969746",
-        "status": true,
-        "name": "ThuanHT",
-        "address": "No.147, Nguyen Van Linh, Long An",
-        "phone": "0901-234-567",
-        "paymentMethod": "Cash on Delivery",
-        "id": "BFIHLdI"
+      "carts": [
+        {
+          "id": "1",
+          "name": "Comfortable Hoodie",
+          "price": 45.99,
+          "imageUrl": "https://picsum.photos/id/1010/300/200",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Classic Sneakers",
+          "price": 60,
+          "imageUrl": "https://picsum.photos/id/1011/300/200",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Casual Shorts",
+          "price": 25,
+          "imageUrl": "https://picsum.photos/id/1012/300/200",
+          "quantity": 1
+        }
+      ],
+      "userID": "2",
+      "date": "2024-09-27 08:08:02.969746",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "BFIHLdI"
     },
     {
-        "carts": [
-            {
-                "id": "1",
-                "name": "Comfortable Hoodie",
-                "price": 45.99,
-                "imageUrl": "https://picsum.photos/id/1010/300/200",
-                "quantity": 1
-            }
-        ],
-        "userID": "rNFQUX2",
-        "date": "2024-09-27 08:09:21.728689",
-        "status": true,
-        "name": "Thuan Hoang",
-        "address": "No.147, Nguyen Van Linh, Long An",
-        "phone": "0901-234-567",
-        "paymentMethod": "PayPal",
-        "id": "kYxZTL2"
+      "carts": [
+        {
+          "id": "1",
+          "name": "Comfortable Hoodie",
+          "price": 45.99,
+          "imageUrl": "https://picsum.photos/id/1010/300/200",
+          "quantity": 1
+        }
+      ],
+      "userID": "rNFQUX2",
+      "date": "2024-09-27 08:09:21.728689",
+      "status": true,
+      "name": "Thuan Hoang",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "PayPal",
+      "id": "kYxZTL2"
+    },
+    {
+      "carts": [
+        {
+          "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
+          "name": "Mens Casual Premium Slim Fit T-Shirts",
+          "price": 22.3,
+          "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
+          "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 1
+        }
+      ],
+      "userID": "2",
+      "date": "2024-09-28 22:32:12.968491",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "85ELMJo"
+    },
+    {
+      "carts": [
+        {
+          "id": "d60e6f0b-86ec-413f-8496-f4b0c2b9e624",
+          "name": "Apple iPhone 14",
+          "price": 999.99,
+          "imageUrl": "https://fakestoreapi.com/img/71w3J0HQ7BL._AC_SL1500_.jpg",
+          "quantity": 1
+        }
+      ],
+      "userID": "2",
+      "date": "2024-09-28 22:40:20.296731",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "gaGs-NQ"
+    },
+    {
+      "carts": [
+        {
+          "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
+          "name": "Mens Casual Premium Slim Fit T-Shirts",
+          "price": 22.3,
+          "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "quantity": 4
+        }
+      ],
+      "userID": "2",
+      "date": "2024-09-28 22:43:43.717639",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "PayPal",
+      "id": "iMLL55G"
+    },
+    {
+      "carts": [
+        {
+          "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
+          "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 1
+        }
+      ],
+      "userID": "2",
+      "date": "2024-09-28 22:58:09.305268",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "No.147, Nguyen Van Linh, Long An",
+      "phone": "0901-234-567",
+      "paymentMethod": "Credit Card",
+      "id": "7nZ2A8V"
+    },
+    {
+      "carts": [
+        {
+          "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
+          "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+          "price": 109.95,
+          "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 1
+        }
+      ],
+      "userID": "2",
+      "date": "2024-09-28 23:04:10.457399",
+      "status": true,
+      "name": "ThuanHT",
+      "address": "399 Giai Phong, Ha Noi, Viet Nam",
+      "phone": "0901-234-567",
+      "paymentMethod": "Cash on Delivery",
+      "id": "u8j_ZqA"
     }
-]
+  ],
+  "favorites": [
+    {
+      "id": "9c7608a8-f74b-4d82-bcf8",
+      "userID": "rNFQUX2",
+      "productID": "f1521bb2-dc77-49b1-8684-cc3d59731e3d",
+      "date":"2024-09-27 02:56:42.863957"
+    }
+  ]
 }
