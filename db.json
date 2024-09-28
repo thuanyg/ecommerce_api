@@ -68,102 +68,126 @@
     }
 ],
   "products": [
-    {
-        "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price": 109.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "sneakers",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "rating": {
-            "rate": 3.9,
-            "count": 120
-        }
-    },
-    {
-        "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
-        "title": "Mens Casual Premium Slim Fit T-Shirts",
-        "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
-        "category": "hoodies",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-        "rating": {
-            "rate": 4.1,
-            "count": 259
-        }
-    },
-    {
-        "id": "1b407f43-9179-40f3-85e4-e1c54f789f36",
-        "title": "Mens Cotton Jacket",
-        "price": 55.99,
-        "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions such as working, hiking, camping, and more.",
-        "category": "jackets",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 500
-        }
-    },
-    {
-        "id": "4766c2b3-412b-47b1-9d72-b1732c6f3c4e",
-        "title": "Mens Casual Slim Fit",
-        "price": 15.99,
-        "description": "The color could be slightly different between on the screen and in practice. Please note that body builds vary by person.",
-        "category": "hoodies",
-        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-        "rating": {
-            "rate": 2.1,
-            "count": 430
-        }
-    },
-    {
-        "id": "b9ccdb63-731f-47d4-b0c1-3036f6e34f7e",
-        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-        "price": 695,
-        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 400
-        }
-    },
-    {
-        "id": "b3189a0f-cc1b-4906-b9ea-e09e27b4f241",
-        "title": "Solid Gold Petite Micropave",
-        "price": 168,
-        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-            "rate": 3.9,
-            "count": 70
-        }
-    },
-    {
-        "id": "6d61c517-bd77-4d4f-825a-d06b5e2a9906",
-        "title": "White Gold Plated Princess",
-        "price": 9.99,
-        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-            "rate": 3,
-            "count": 400
-        }
-    },
-    {
-        "id": "fa4e4f91-b63c-48a2-a6e6-80000c8df08b",
-        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-        "price": 10.99,
-        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel.",
-        "category": "jewelry",
-        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-            "rate": 1.9,
-            "count": 100
-        }
+  {
+    "id": "f8e19c4b-5d72-42d6-a688-bd09b4462a64",
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Một chiếc ba lô hoàn hảo cho việc sử dụng hàng ngày và những buổi đi dạo trong rừng. Với ngăn đệm dành cho laptop lên đến 15 inch, bạn có thể an tâm cất giữ thiết bị của mình trong sự bảo vệ an toàn. Thiết kế thông minh với không gian đủ cho những vật dụng thiết yếu, khiến nó trở thành lựa chọn lý tưởng cho cả công việc và giải trí. Chất liệu bền bỉ và khả năng chống nước giúp bạn yên tâm trong mọi điều kiện thời tiết. Ba lô này không chỉ tiện dụng mà còn thời trang, thích hợp cho những ai yêu thích khám phá và di chuyển thường xuyên.",
+    "category": "sneakers",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
     }
+  },
+  {
+    "id": "86d2a5b7-1a79-4887-8128-91e0debc1f9b",
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": 22.3,
+    "description": "Áo thun với kiểu dáng slim-fit, tay raglan tương phản dài, và khóa ba nút. Chất liệu nhẹ và mềm mại, đảm bảo sự thoải mái và thông thoáng cho người mặc. Đây là lựa chọn tuyệt vời cho cả những buổi đi chơi hay làm việc. Với thiết kế hiện đại và màu sắc đa dạng, bạn có thể dễ dàng phối hợp với nhiều trang phục khác nhau. Sản phẩm này không chỉ mang lại vẻ ngoài thời trang mà còn giúp bạn cảm thấy tự tin trong mọi tình huống.",
+    "category": "hoodies",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": "1b407f43-9179-40f3-85e4-e1c54f789f36",
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "Chiếc áo khoác ngoài tuyệt vời cho mùa Xuân, Thu, và Đông, phù hợp với nhiều dịp như làm việc, đi bộ đường dài, cắm trại, và nhiều hoạt động ngoài trời khác. Với chất liệu cotton bền bỉ, nó không chỉ mang lại sự thoải mái mà còn giúp bạn nổi bật trong đám đông. Thiết kế kiểu dáng thời trang, có nhiều túi tiện lợi để đựng những vật dụng nhỏ, giúp bạn dễ dàng truy cập mọi thứ khi cần. Sản phẩm này sẽ là một phần không thể thiếu trong tủ đồ của bạn.",
+    "category": "jackets",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": "4766c2b3-412b-47b1-9d72-b1732c6f3c4e",
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "Chiếc áo này có thể có màu sắc hơi khác nhau giữa màn hình và thực tế. Xin lưu ý rằng vóc dáng của cơ thể mỗi người cũng có sự khác biệt. Thích hợp cho việc mặc hàng ngày và các hoạt động thể thao. Chất liệu mềm mại giúp bạn cảm thấy thoải mái khi mặc trong thời gian dài, đồng thời dễ dàng bảo quản và giặt sạch.",
+    "category": "hoodies",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": "b9ccdb63-731f-47d4-b0c1-3036f6e34f7e",
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "Từ bộ sưu tập Legends của chúng tôi, Naga được lấy cảm hứng từ con rồng nước huyền thoại bảo vệ viên ngọc trai của đại dương. Với thiết kế tinh xảo và chất liệu cao cấp, đây là món trang sức hoàn hảo để thể hiện cá tính và phong cách của bạn. Món trang sức này không chỉ là một phụ kiện, mà còn là biểu tượng của sức mạnh và sự bảo vệ, khiến nó trở thành món quà lý tưởng cho những người phụ nữ quan trọng trong cuộc đời bạn.",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": "b3189a0f-cc1b-4906-b9ea-e09e27b4f241",
+    "title": "Solid Gold Petite Micropave",
+    "price": 168,
+    "description": "Đảm bảo sự hài lòng. Bạn có thể trả lại hoặc đổi bất kỳ đơn hàng nào trong vòng 30 ngày. Món trang sức này mang đến vẻ đẹp tinh tế và sang trọng, rất phù hợp cho những dịp đặc biệt. Với thiết kế nhỏ gọn và tinh xảo, nó có thể trở thành một phần không thể thiếu trong bộ sưu tập trang sức của bạn.",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": "6d61c517-bd77-4d4f-825a-d06b5e2a9906",
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Chiếc nhẫn đính hôn kim cương solitaire cổ điển được tạo ra cho cô ấy. Được thiết kế tinh tế với chất liệu vàng trắng, đây là biểu tượng của tình yêu và sự cam kết. Món trang sức này không chỉ đẹp mắt mà còn mang ý nghĩa sâu sắc, là món quà hoàn hảo cho những dịp kỷ niệm hay cầu hôn.",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": "fa4e4f91-b63c-48a2-a6e6-80000c8df08b",
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Khuyên tai với thiết kế hình cú, được mạ vàng hồng và làm từ thép không gỉ 316L. Đây là một món trang sức độc đáo, phù hợp cho những ai yêu thích sự khác biệt. Thiết kế hiện đại và tinh tế, khiến nó trở thành món quà tuyệt vời cho những dịp sinh nhật hoặc lễ kỷ niệm.",
+    "category": "jewelry",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": "a1b7fdf3-44e3-4e0d-8e3e-012e8a181e92",
+    "title": "Adidas Ultraboost 21 Shoes",
+    "price": 180,
+    "description": "Giày thể thao Adidas Ultraboost 21 được thiết kế để cung cấp sự thoải mái tối đa và hiệu suất tuyệt vời. Được trang bị công nghệ Boost độc quyền của Adidas, đôi giày này giúp bạn cảm nhận được sự đàn hồi và linh hoạt trong mỗi bước đi. Với thiết kế thể thao hiện đại, nó rất phù hợp cho việc chạy bộ, tập gym hoặc đi dạo phố.",
+    "category": "sneakers",
+    "image": "https://fakestoreapi.com/img/81QWz-Py0aL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 300
+    }
+  },
+  {
+    "id": "f2c3b982-10fc-4610-8b26-f689dc0625a8",
+    "title": "Nike Air Zoom Pegasus 37",
+    "price": 120,
+    "description": "Nike Air Zoom Pegasus 37 được thiết kế cho những người yêu thích chạy bộ, mang lại sự nhẹ nhàng và êm ái trong từng bước chạy. Đế giày với công nghệ Zoom Air giúp tăng cường độ đàn hồi và khả năng phản hồi. Kiểu dáng thể thao hiện đại và phong cách, rất phù hợp cho cả những người đam mê thể thao và thời trang.",
+    "category": "sneakers",
+    "image": "https://fakestoreapi.com/img/71QVxtFfthL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 500
+    }
+  }
 ],
   "orders": [
     {
