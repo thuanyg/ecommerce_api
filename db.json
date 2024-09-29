@@ -1092,7 +1092,18 @@
     {
       "id": "9c7608a8-f74b-4d82-bcf8",
       "userID": "rNFQUX2",
-      "productID": "f1521bb2-dc77-49b1-8684-cc3d59731e3d",
+      "product": {
+        "id": "9c7608a8-f74b-4d82-bcf8-3c378d40f42e",
+        "title": "Yoga Mat",
+        "price": 24.99,
+        "description": "Thảm yoga chất lượng cao, chống trượt và bền bỉ, lý tưởng cho các bài tập thể dục tại nhà.",
+        "category": "fitness",
+        "image": "https://fakestoreapi.com/img/61kD33Z9bnL._AC_SL1500_.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 110
+        }
+      },
       "date":"2024-09-27 02:56:42.863957"
     }
   ]
